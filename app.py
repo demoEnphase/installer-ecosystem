@@ -1,4 +1,4 @@
-"""Installer Ecosystem — Streamlit App Entry Point."""
+﻿"""Installer Ecosystem — Streamlit App Entry Point."""
 import sys
 import warnings
 from pathlib import Path
@@ -1376,4 +1376,5 @@ elif _active_view == "Inbox":
 
 # ── Chatbot assistant (always visible at the bottom) ───────────────────────────
 render_chatbot(master=master_scoped)
+
 
