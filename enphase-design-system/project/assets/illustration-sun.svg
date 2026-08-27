@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-label="Sun illustration">
+  <defs>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFD02C"></stop>
+      <stop offset="0.7" stop-color="#FF8B49"></stop>
+      <stop offset="1" stop-color="#F45270"></stop>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="#FAF6EF"></rect>
+  <circle cx="200" cy="200" r="120" fill="url(#sun)"></circle>
+  <circle cx="200" cy="200" r="170" fill="#FFD02C" opacity="0.12"></circle>
+  <circle cx="200" cy="200" r="200" fill="#FF8B49" opacity="0.06"></circle>
+</svg>

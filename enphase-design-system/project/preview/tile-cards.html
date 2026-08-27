@@ -1,0 +1,23 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Tile cards</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body { margin:0; padding:18px; background:#FAF6EF; font-family: var(--enph-font-primary); }
+  .grid { display:grid; grid-template-columns: 1fr 1fr 1fr; gap:12px; }
+  .tile { border-radius: 24px; padding: 16px; min-height: 130px; display:flex; flex-direction: column; justify-content: space-between; }
+  .eyebrow { font-family: var(--enph-font-technical); font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase; }
+  .h { font: 400 18px/1.15 var(--enph-font-primary); letter-spacing: -0.01em; }
+  .a { background: #FAF6EF; border:1px solid #DCDCD6; }
+  .b { background: linear-gradient(180deg,#FCB571 0%,#F497B3 100%); color:#3C3C3C;}
+  .c { background:#000; color:#fff; }
+  .a .eyebrow { color:#7D7D7D; } .a .h { color:#3C3C3C; }
+  .b .eyebrow { color:#3C3C3C; } .b .h { color:#3C3C3C; }
+  .c .eyebrow { color:#FFB6B6; } .c .h { color:#fff; }
+</style></head>
+<body>
+  <div class="grid">
+    <div class="tile a"><div class="eyebrow">Microinverters</div><div class="h">The smartest solar power.</div></div>
+    <div class="tile b"><div class="eyebrow">Storage</div><div class="h">Your personal power plant.</div></div>
+    <div class="tile c"><div class="eyebrow">EV Charging</div><div class="h">Smarter. Tougher. Future-ready.</div></div>
+  </div>
+</body></html>

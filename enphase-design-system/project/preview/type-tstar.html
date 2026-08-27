@@ -1,0 +1,33 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>T-Star Pro</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body { margin:0; padding:24px; background:#FAF6EF; font-family: var(--enph-font-primary); }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .tile { background:#fff; border-radius: 16px; padding: 14px 16px; }
+  .label { font-family: var(--enph-font-technical); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: #7D7D7D; margin-bottom: 6px; }
+  .ts { font-family: var(--enph-font-technical); font-weight: 500; text-transform: uppercase; letter-spacing: 0.15em; color: #3C3C3C; line-height: 1.5; }
+  .big { font-size: 16px; }
+  .data { display:flex; align-items: baseline; gap: 8px; }
+  .num { font: 400 36px/1 var(--enph-font-primary); color:#3C3C3C; }
+</style></head>
+<body>
+  <div class="grid">
+    <div class="tile">
+      <div class="label">Eyebrow</div>
+      <div class="ts big">Microinverters</div>
+    </div>
+    <div class="tile">
+      <div class="label">Data label</div>
+      <div class="data"><div class="num">120</div><div class="ts">kWh</div></div>
+    </div>
+    <div class="tile">
+      <div class="label">Status</div>
+      <div class="ts">Status: Active · IQ8</div>
+    </div>
+    <div class="tile">
+      <div class="label">Tag</div>
+      <div class="ts">10-Year Warranty</div>
+    </div>
+  </div>
+</body></html>

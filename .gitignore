@@ -1,0 +1,23 @@
+# Data cache (large pickle files)
+.datacache/
+
+# Raw data files
+*.xlsx
+*.csv
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Cloudflared
+cloudflared.exe
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-label="IQ8 Microinverter (placeholder render)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCB571"></stop>
+      <stop offset="0.5" stop-color="#F497B3"></stop>
+      <stop offset="1" stop-color="#81C6B9"></stop>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3C3C3C"></stop>
+      <stop offset="1" stop-color="#1a1a1a"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)" rx="24"></rect>
+  <g transform="translate(80,120)">
+    <rect x="0" y="0" width="240" height="160" rx="14" fill="url(#body)"></rect>
+    <rect x="14" y="14" width="212" height="132" rx="6" fill="#2a2a2a"></rect>
+    <circle cx="120" cy="80" r="34" fill="#EA6100"></circle>
+    <text x="120" y="88" font-family="Inter, sans-serif" font-size="22" font-weight="600" text-anchor="middle" fill="#fff" letter-spacing="0.05em">IQ8</text>
+    <rect x="20" y="24" width="40" height="6" rx="2" fill="#7D7D7D"></rect>
+    <rect x="20" y="36" width="60" height="4" rx="2" fill="#5a5a5a"></rect>
+    <rect x="180" y="24" width="40" height="6" rx="2" fill="#7D7D7D"></rect>
+    <circle cx="40" cy="130" r="4" fill="#61C06A"></circle>
+  </g>
+</svg>

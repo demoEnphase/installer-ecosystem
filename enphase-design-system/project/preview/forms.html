@@ -1,0 +1,19 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Form fields</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body { margin:0; padding:22px; background:#FAF6EF; font-family: var(--enph-font-primary); display:grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .field { display:flex; flex-direction:column; gap:6px; }
+  .lbl { font-family: var(--enph-font-technical); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color:#7D7D7D; }
+  .inp { background:#fff; border: 1px solid #DCDCD6; border-radius: 10px; padding: 12px 14px; font: 400 14px var(--enph-font-primary); color:#3C3C3C; }
+  .inp:focus { outline: none; border-color: #EA6100; box-shadow: 0 0 0 3px rgba(234,97,0,0.15); }
+  .help { font-size: 12px; color:#7D7D7D; }
+  .error { color:#DE2100; font-size:12px; }
+  .err { border-color:#DE2100; }
+</style></head>
+<body>
+  <div class="field"><div class="lbl">Email</div><input class="inp" value="anna@enphase.com" /><div class="help">We'll never share your email.</div></div>
+  <div class="field"><div class="lbl">ZIP code</div><input class="inp err" value="0000" /><div class="error">Enter a valid 5-digit ZIP.</div></div>
+  <div class="field"><div class="lbl">System size</div><select class="inp"><option>10 kWh</option><option>20 kWh</option></select></div>
+  <div class="field"><div class="lbl">Notes</div><input class="inp" placeholder="Optional..." /></div>
+</body></html>

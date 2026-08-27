@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Enphase — Take control of your energy</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="../../colors_and_type.css">
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: var(--enph-warm-white); color: var(--enph-gray-01); font-family: var(--enph-font-primary); -webkit-font-smoothing: antialiased; }
+
+  .container { max-width: 1320px; margin: 0 auto; padding: 0 32px; }
+
+  /* ───── Top utility bar ───── */
+  .util { background: #000; color: #DCDCD6; font-size: 12px; }
+  .util .row { display: flex; justify-content: space-between; align-items: center; height: 36px; }
+  .util a { color: inherit; text-decoration: none; opacity: .8; }
+  .util a:hover { opacity: 1; color: #fff; }
+  .util .left, .util .right { display: flex; gap: 18px; align-items: center; }
+  .util .tag { font-family: var(--enph-font-technical); text-transform: uppercase; letter-spacing: .15em; font-size: 10px; color: var(--enph-orange-01); }
+
+  /* ───── Main nav ───── */
+  nav.main { background: #fff; border-bottom: 1px solid var(--enph-gray-03); position: sticky; top: 0; z-index: 50; }
+  nav.main .row { display: flex; align-items: center; height: 76px; gap: 36px; }
+  nav.main .logo img { height: 28px; display: block; }
+  nav.main ul { list-style: none; padding: 0; margin: 0; display: flex; gap: 28px; align-items: center; }
+  nav.main a.link { color: var(--enph-gray-01); text-decoration: none; font-size: 15px; display: inline-flex; align-items: center; gap: 6px; }
+  nav.main a.link:hover { color: #000; }
+  nav.main .right { margin-left: auto; display: flex; gap: 16px; align-items: center; }
+  nav.main .icon-btn { width: 40px; height: 40px; border-radius: 999px; display: inline-flex; align-items: center; justify-content: center; color: var(--enph-gray-01); background: transparent; border: none; cursor: pointer; }
+  nav.main .icon-btn:hover { background: var(--enph-warm-white); }
+  nav.main .cta { background: var(--enph-gray-01); color: #fff; padding: 11px 22px; border-radius: 999px; text-decoration: none; font-size: 14px; }
+  nav.main .cta:hover { background: #000; }
+
+  /* ───── Hero ───── */
+  section.hero { padding: 28px 0 48px; }
+  .hero-tile { position: relative; border-radius: 36px; overflow: hidden; background: var(--enph-brand-gradient); min-height: 560px; padding: 56px 64px; display: flex; flex-direction: column; justify-content: space-between; }
+  .hero-tile .scene { position: absolute; inset: 0; z-index: 0; pointer-events: none; }
+  .hero-tile .scene img { width: 100%; height: 100%; object-fit: cover; opacity: .85; }
+  .hero-tile .scene::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(252,181,113,.15) 0%, rgba(244,151,179,.05) 50%, rgba(129,198,185,.20) 100%); }
+  .hero-tile .badge { font-family: var(--enph-font-technical); font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--enph-gray-01); background: rgba(255,255,255,.85); display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 999px; align-self: flex-start; backdrop-filter: blur(8px); position: relative; z-index: 1; }
+  .hero-tile .badge .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--enph-green-02); }
+  .hero-tile h1 { font: 400 clamp(40px, 6vw, 84px) / 1.0 var(--enph-font-primary); letter-spacing: -0.025em; color: var(--enph-gray-01); margin: 0; max-width: 16ch; position: relative; z-index: 1; }
+  .hero-tile p.lede { font-size: 18px; line-height: 1.5; max-width: 44ch; color: var(--enph-gray-01); margin: 18px 0 0; position: relative; z-index: 1; }
+  .hero-tile .cta-row { display: flex; gap: 12px; margin-top: 28px; position: relative; z-index: 1; }
+  .btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 26px; border-radius: 999px; font-size: 15px; text-decoration: none; border: none; cursor: pointer; font-family: inherit; }
+  .btn.primary { background: var(--enph-gray-01); color: #fff; }
+  .btn.primary:hover { background: #000; }
+  .btn.ghost { background: rgba(255,255,255,.85); color: var(--enph-gray-01); backdrop-filter: blur(8px); }
+  .btn.ghost:hover { background: #fff; }
+
+  /* hero stat strip */
+  .stat-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-top: 24px; padding: 24px 8px 4px; }
+  .stat .num { font: 400 40px/1 var(--enph-font-primary); letter-spacing: -0.02em; color: var(--enph-gray-01); }
+  .stat .label { font-family: var(--enph-font-technical); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--enph-gray-02); margin-top: 6px; }
+
+  /* ───── Eyebrow + product grid ───── */
+  section.products { padding: 56px 0 24px; }
+  .section-head { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 28px; }
+  .eyebrow { font-family: var(--enph-font-technical); font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--enph-orange-02); margin-bottom: 12px; }
+  .section-head h2 { font: 400 clamp(28px, 3.4vw, 48px) / 1.05 var(--enph-font-primary); letter-spacing: -0.02em; margin: 0; max-width: 18ch; }
+  .section-head .link { color: var(--enph-gray-01); text-decoration: none; font-size: 15px; border-bottom: 1.5px solid var(--enph-gray-01); padding-bottom: 4px; align-self: flex-end; }
+  .section-head .link:hover { color: var(--enph-orange-02); border-bottom-color: var(--enph-orange-02); }
+
+  .grid-3 { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 16px; }
+  .product { border-radius: 28px; padding: 28px; min-height: 360px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; position: relative; text-decoration: none; color: inherit; }
+  .product:hover .arrow { transform: translateX(4px); }
+  .product .arrow { transition: transform .2s ease-out; }
+  .product .top { display: flex; flex-direction: column; gap: 4px; }
+  .product .eyebrow-sm { font-family: var(--enph-font-technical); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; }
+  .product h3 { font: 400 28px/1.1 var(--enph-font-primary); letter-spacing: -0.015em; margin: 6px 0 0; max-width: 16ch; }
+  .product p { font-size: 14px; line-height: 1.45; margin: 8px 0 0; max-width: 32ch; }
+  .product .cta-link { display: inline-flex; gap: 8px; align-items: center; font-size: 14px; }
+
+  .product.large { background: #000; color: #fff; grid-column: span 1; min-height: 420px; }
+  .product.large .eyebrow-sm { color: var(--enph-orange-01); }
+  .product.large .img { position: absolute; right: -20px; bottom: -20px; width: 65%; }
+  .product.large .img img { width: 100%; display: block; }
+
+  .product.medium-a { background: var(--enph-warm-white); border: 1px solid var(--enph-gray-03); }
+  .product.medium-a .eyebrow-sm { color: var(--enph-coral); }
+  .product.medium-a .img { position: absolute; right: 0; bottom: 0; width: 70%; }
+
+  .product.medium-b { background: linear-gradient(180deg, var(--enph-orange-01) 0%, var(--enph-yellow) 100%); color: var(--enph-gray-01); }
+  .product.medium-b .eyebrow-sm { color: var(--enph-gray-01); }
+  .product.medium-b .img { position: absolute; right: -10px; bottom: -10px; width: 60%; }
+
+  /* ───── Three-up feature row ───── */
+  section.features { padding: 32px 0 64px; }
+  .feature-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .feature { background: #fff; border: 1px solid var(--enph-gray-03); border-radius: 24px; padding: 28px; }
+  .feature .icon { width: 44px; height: 44px; border-radius: 14px; background: var(--enph-warm-white); display: inline-flex; align-items: center; justify-content: center; color: var(--enph-orange-02); margin-bottom: 18px; }
+  .feature h4 { font: 500 20px/1.2 var(--enph-font-primary); margin: 0 0 8px; letter-spacing: -0.01em; }
+  .feature p { font-size: 14px; line-height: 1.5; color: var(--enph-gray-02); margin: 0; }
+
+  /* ───── Big quote / promise band ───── */
+  section.promise { padding: 24px 0 64px; }
+  .promise-tile { background: var(--enph-gray-01); color: #fff; border-radius: 36px; padding: 80px 64px; display: grid; grid-template-columns: 1.6fr 1fr; gap: 40px; align-items: end; }
+  .promise-tile h2 { font: 400 clamp(36px, 5vw, 72px) / 1.0 var(--enph-font-primary); letter-spacing: -0.025em; margin: 0; max-width: 16ch; }
+  .promise-tile h2 em { font-style: normal; color: var(--enph-orange-01); }
+  .promise-tile aside { font-size: 16px; line-height: 1.5; color: var(--enph-gray-03); max-width: 38ch; }
+
+  /* ───── Footer ───── */
+  footer { background: #000; color: var(--enph-gray-03); padding: 64px 0 28px; }
+  footer .top { display: grid; grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 40px; padding-bottom: 48px; border-bottom: 1px solid #2a2a2a; }
+  footer h5 { font-family: var(--enph-font-technical); font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--enph-gray-02); margin: 0 0 16px; }
+  footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+  footer a { color: #DCDCD6; text-decoration: none; font-size: 14px; }
+  footer a:hover { color: #fff; }
+  footer .brand img { height: 24px; margin-bottom: 16px; }
+  footer .brand p { font-size: 13px; line-height: 1.5; max-width: 32ch; color: var(--enph-gray-02); }
+  footer .bottom { display: flex; justify-content: space-between; align-items: center; padding-top: 24px; font-size: 12px; color: var(--enph-gray-02); font-family: var(--enph-font-technical); letter-spacing: 0.1em; text-transform: uppercase; }
+
+  /* lucide sizing */
+  [data-lucide] { width: 18px; height: 18px; stroke-width: 1.5; }
+  .icon-btn [data-lucide] { width: 20px; height: 20px; }
+  .feature .icon [data-lucide] { width: 22px; height: 22px; }
+</style>
+</head>
+<body>
+
+<!-- Utility bar -->
+<div class="util">
+  <div class="container row">
+    <div class="left">
+      <span class="tag">Solar IQ — Smarter Solar Education</span>
+      <a href="#">Find an installer</a>
+    </div>
+    <div class="right">
+      <a href="#">For installers</a>
+      <a href="#">For data centers</a>
+      <a href="#">Support</a>
+      <a href="#">Sign in</a>
+    </div>
+  </div>
+</div>
+
+<!-- Main nav -->
+<nav class="main">
+  <div class="container row">
+    <a href="#" class="logo"><img src="../../assets/enphase-logo.svg" alt="Enphase"></a>
+    <ul>
+      <li><a class="link" href="#">Products <i data-lucide="chevron-down"></i></a></li>
+      <li><a class="link" href="#">Why Enphase <i data-lucide="chevron-down"></i></a></li>
+      <li><a class="link" href="#">Energy Education</a></li>
+      <li><a class="link" href="#">For business</a></li>
+    </ul>
+    <div class="right">
+      <button class="icon-btn" aria-label="Search"><i data-lucide="search"></i></button>
+      <button class="icon-btn" aria-label="Region"><i data-lucide="globe"></i></button>
+      <a class="cta" href="#">Get Enphase</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-tile">
+      <div class="scene"><img src="../../assets/hero-rooftop.svg" alt=""></div>
+
+      <span class="badge"><span class="dot"></span>Now shipping · IQ8 Series</span>
+
+      <div>
+        <h1>Take control<br>of your energy.</h1>
+        <p class="lede">Make, use, save, and sell — on your terms. The Enphase home energy system gives you smarter solar, lasting backup, and clean charging that works together as one.</p>
+        <div class="cta-row">
+          <a class="btn primary" href="#">Get Enphase <i data-lucide="arrow-right"></i></a>
+          <a class="btn ghost" href="#"><i data-lucide="play"></i> Watch the film</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="stat-strip">
+      <div class="stat"><div class="num">60M+</div><div class="label">Microinverters shipped</div></div>
+      <div class="stat"><div class="num">3.5M</div><div class="label">Homes powered</div></div>
+      <div class="stat"><div class="num">145</div><div class="label">Countries</div></div>
+      <div class="stat"><div class="num">25 yr</div><div class="label">Microinverter warranty</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- Products -->
+<section class="products">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">The Enphase Energy System</div>
+        <h2>Four products. One smarter home.</h2>
+      </div>
+      <a href="#" class="link">See all products →</a>
+    </div>
+
+    <div class="grid-3">
+      <a class="product large" href="#">
+        <div class="top">
+          <div class="eyebrow-sm">Microinverters</div>
+          <h3>The smartest solar power.</h3>
+          <p>One microinverter per panel — so a single shaded module never drags down the rest of your roof.</p>
+        </div>
+        <span class="cta-link">Explore IQ8 <i data-lucide="arrow-right" class="arrow"></i></span>
+        <div class="img"><img src="../../assets/product-iq8.svg" alt=""></div>
+      </a>
+
+      <a class="product medium-a" href="#">
+        <div class="top">
+          <div class="eyebrow-sm">Storage</div>
+          <h3>Your personal power plant.</h3>
+          <p>IQ Battery 10C stores the sunshine for nights, outages, and peak rates.</p>
+        </div>
+        <span class="cta-link">Explore batteries <i data-lucide="arrow-right" class="arrow"></i></span>
+        <div class="img"><img src="../../assets/product-battery.svg" alt=""></div>
+      </a>
+
+      <a class="product medium-b" href="#">
+        <div class="top">
+          <div class="eyebrow-sm">EV Charging</div>
+          <h3>Smarter. Tougher. Future-ready.</h3>
+          <p>Charge with sun. The IQ EV Charger 2 talks to your panels and your bill.</p>
+        </div>
+        <span class="cta-link">Explore charging <i data-lucide="arrow-right" class="arrow"></i></span>
+        <div class="img"><img src="../../assets/product-ev-charger.svg" alt=""></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Features -->
+<section class="features">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Why Enphase</div>
+        <h2>Built to outlast the roof it sits on.</h2>
+      </div>
+    </div>
+
+    <div class="feature-grid">
+      <div class="feature">
+        <div class="icon"><i data-lucide="shield-check"></i></div>
+        <h4>25-year warranty</h4>
+        <p>Industry-leading microinverter warranty. The longest-lived part on your roof should be the one making you money.</p>
+      </div>
+      <div class="feature">
+        <div class="icon"><i data-lucide="zap"></i></div>
+        <h4>One panel out, the rest still on</h4>
+        <p>Module-level conversion means shading, leaves, or a single failure never takes down your whole array.</p>
+      </div>
+      <div class="feature">
+        <div class="icon"><i data-lucide="phone"></i></div>
+        <h4>One app, every kilowatt</h4>
+        <p>Track production, batteries, EV charging, and bill savings — all in the Enphase App.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Promise -->
+<section class="promise">
+  <div class="container">
+    <div class="promise-tile">
+      <h2>Make, use, save, and <em>sell</em> — on your terms.</h2>
+      <aside>The grid is changing. Your energy can change with it. Enphase systems already export, store, and time-shift power for millions of homes.</aside>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="top">
+      <div class="brand">
+        <img src="../../assets/enphase-logo-white.svg" alt="Enphase">
+        <p>The Enphase Energy System gives homeowners and businesses the smartest microinverters, batteries, and software in the world.</p>
+      </div>
+      <div>
+        <h5>Products</h5>
+        <ul>
+          <li><a href="#">IQ8 Microinverters</a></li>
+          <li><a href="#">IQ Battery 10C</a></li>
+          <li><a href="#">IQ EV Charger 2</a></li>
+          <li><a href="#">Enphase App</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Why Enphase</h5>
+        <ul>
+          <li><a href="#">Solar 101</a></li>
+          <li><a href="#">Cost & savings</a></li>
+          <li><a href="#">Reviews</a></li>
+          <li><a href="#">Find an installer</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Company</h5>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Careers</a></li>
+          <li><a href="#">Newsroom</a></li>
+          <li><a href="#">Investors</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="bottom">
+      <span>© 2026 Enphase Energy, Inc.</span>
+      <span>Privacy · Terms · Trademarks</span>
+    </div>
+  </div>
+</footer>
+
+<script>lucide.createIcons();</script>
+</body>
+</html>

@@ -1,0 +1,291 @@
+/* ============================================================
+   Enphase Design System — Colors & Typography
+   Source: Enphase Visual Identity Guidelines v1.3 (PDF)
+   ============================================================ */
+
+/* ---- Web fonts ----
+   PRIMARY: Enphase Visuelt — official licensed family, served from /fonts.
+   SECONDARY: T-Star Pro is still licensed; we substitute DM Mono for technical
+   accents until the T-Star files are provided. */
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&display=swap');
+
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-Light.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-Light.woff') format('woff');
+  font-weight: 300; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-LightItalic.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-LightItalic.woff') format('woff');
+  font-weight: 300; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-Regular.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-Regular.woff') format('woff');
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-Italic.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-Italic.woff') format('woff');
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-Medium.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-Medium.woff') format('woff');
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-MediumItalic.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-MediumItalic.woff') format('woff');
+  font-weight: 500; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-Bold.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-Bold.woff') format('woff');
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Enphase Visuelt';
+  src: url('fonts/EnphaseVisuelt-BoldItalic.woff2') format('woff2'),
+       url('fonts/EnphaseVisuelt-BoldItalic.woff') format('woff');
+  font-weight: 700; font-style: italic; font-display: swap;
+}
+
+:root {
+  /* ===== NEUTRALS ===== */
+  --enph-black:        #000000;
+  --enph-gray-01:      #3C3C3C;  /* Primary text on white */
+  --enph-gray-02:      #7D7D7D;  /* Secondary text */
+  --enph-gray-03:      #DCDCD6;  /* Borders, dividers, soft fills */
+  --enph-gray-04:      #F4F3F0;  /* Background tint */
+  --enph-warm-white:   #FAF6EF;  /* Warm hero background */
+  --enph-white:        #FFFFFF;
+
+  /* ===== BRAND COLORS — Light theme (use on White / Warm White) ===== */
+  --enph-orange-02:    #EA6100;  /* Enphase Orange (light theme) */
+  --enph-coral:        #F45270;
+  --enph-green-02:     #439E58;
+  --enph-yellow:       #FFD02C;
+  --enph-indigo:       #2C436F;
+  --enph-teal-02:      #3B999E;
+  --enph-red-02:       #DE2100;  /* Functional red */
+
+  /* ===== BRAND COLORS — Dark theme (use on Black / Gray 01) ===== */
+  --enph-orange-01:    #FF8B49;
+  --enph-green-01:     #61C06A;
+  --enph-pink:         #FFB6B6;
+  --enph-light-blue:   #C8DEFF;
+  --enph-teal-01:      #5BBBC1;
+  --enph-red-01:       #FD3826;
+
+  /* ===== GRADIENTS (90deg vertical) ===== */
+  --enph-grad-brand:    linear-gradient(180deg, #FCB571 0%, #F497B3 33%, #F7D9A9 66%, #81C6B9 100%);
+  --enph-grad-sunrise:  linear-gradient(180deg, #FCB571 0%, #F49787 50%, #C8DEFF 100%);
+  --enph-grad-sunset:   linear-gradient(180deg, #FFB6B6 0%, #F49787 50%, #2C436F 100%);
+  --enph-grad-spot-orange: linear-gradient(180deg, #FF8B49 0%, #F7D9A9 100%);
+  --enph-grad-spot-green:  linear-gradient(180deg, #81C6B9 0%, #E0E1A4 100%);
+  --enph-grad-spot-blue:   linear-gradient(180deg, #7BB9E8 0%, #D6E6FF 100%);
+
+  /* ===== SEMANTIC ROLES ===== */
+  --enph-fg-1:         var(--enph-gray-01);   /* Primary text */
+  --enph-fg-2:         var(--enph-gray-02);   /* Secondary text */
+  --enph-fg-inverse:   var(--enph-white);
+  --enph-bg-1:         var(--enph-white);     /* Primary surface */
+  --enph-bg-2:         var(--enph-warm-white);/* Warm surface */
+  --enph-bg-3:         var(--enph-gray-04);   /* Subtle fill */
+  --enph-border:       var(--enph-gray-03);
+  --enph-accent:       var(--enph-orange-02); /* Brand accent */
+  --enph-link:         var(--enph-orange-02);
+  --enph-success:      var(--enph-green-02);
+  --enph-warning:      var(--enph-yellow);
+  --enph-danger:       var(--enph-red-02);
+  --enph-info:         var(--enph-indigo);
+
+  /* ===== TYPOGRAPHY ===== */
+  /* PRIMARY: Enphase Visuelt — official licensed family, loaded from /fonts */
+  --enph-font-primary: 'Enphase Visuelt', 'Visuelt Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /* SECONDARY: T-Star Pro — substitute DM Mono (mono-line, technical feel; T-Star is closer to a mono-weight grotesque, DM Mono captures the precision-instrument vibe) */
+  --enph-font-technical: 'DM Mono', 'T-Star Pro', 'IBM Plex Mono', 'Roboto Mono', monospace;
+
+  /* ===== TYPE SCALE (per guidelines: hero 84pt, sub 32pt, body 14–24pt, T-Star caption) ===== */
+  --enph-fs-hero:      84px;     /* Hero headlines */
+  --enph-fs-display:   60px;
+  --enph-fs-h1:        48px;
+  --enph-fs-h2:        32px;
+  --enph-fs-h3:        24px;
+  --enph-fs-h4:        20px;
+  --enph-fs-body-lg:   18px;
+  --enph-fs-body:      16px;
+  --enph-fs-body-sm:   14px;
+  --enph-fs-tstar:     12px;     /* T-Star captions / eyebrows */
+  --enph-fs-tstar-sm:  10px;
+
+  --enph-lh-hero:      1.0;      /* 100% per guidelines */
+  --enph-lh-tight:     1.1;
+  --enph-lh-snug:      1.2;
+  --enph-lh-body:      1.4;      /* 110-140% per guidelines */
+  --enph-lh-tstar:     1.5;      /* 1.5x per guidelines */
+
+  --enph-tracking-hero:    -0.02em;  /* -8 to -20 units */
+  --enph-tracking-sub:     0.005em;  /* +4 units approx */
+  --enph-tracking-body:    0.01em;   /* 8 to 20 units approx */
+  --enph-tracking-tstar:   0.15em;   /* 150 units = 0.15em */
+
+  /* ===== SPACING (Enphase doesn't define a token scale, but layout = 5% margins; we expose a 4px-based scale) ===== */
+  --enph-space-1:  4px;
+  --enph-space-2:  8px;
+  --enph-space-3:  12px;
+  --enph-space-4:  16px;
+  --enph-space-5:  24px;
+  --enph-space-6:  32px;
+  --enph-space-7:  48px;
+  --enph-space-8:  64px;
+  --enph-space-9:  96px;
+
+  /* ===== RADII (per guidelines: tile radius = ½ margin; for digital, ~24px on cards) ===== */
+  --enph-radius-sm:   8px;
+  --enph-radius-md:   16px;
+  --enph-radius-lg:   24px;     /* Standard tile card */
+  --enph-radius-xl:   48px;     /* Large/hero tile */
+  --enph-radius-pill: 9999px;   /* CTA buttons */
+
+  /* ===== ELEVATION ===== */
+  --enph-shadow-sm: 0 1px 2px rgba(60,60,60,0.06), 0 1px 3px rgba(60,60,60,0.08);
+  --enph-shadow-md: 0 4px 12px rgba(60,60,60,0.08), 0 2px 4px rgba(60,60,60,0.06);
+  --enph-shadow-lg: 0 12px 32px rgba(60,60,60,0.10), 0 4px 8px rgba(60,60,60,0.06);
+}
+
+/* ============================================================
+   SEMANTIC TYPE STYLES — apply directly to elements
+   ============================================================ */
+
+.enph-hero {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-hero);
+  line-height: var(--enph-lh-hero);
+  letter-spacing: var(--enph-tracking-hero);
+  color: var(--enph-gray-01);
+}
+
+.enph-display {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-display);
+  line-height: var(--enph-lh-tight);
+  letter-spacing: var(--enph-tracking-hero);
+  color: var(--enph-gray-01);
+}
+
+.enph-h1 {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-h1);
+  line-height: var(--enph-lh-tight);
+  letter-spacing: -0.01em;
+  color: var(--enph-gray-01);
+}
+
+.enph-h2 {
+  font-family: var(--enph-font-primary);
+  font-weight: 500;   /* Medium for sub-heads, per guidelines */
+  font-size: var(--enph-fs-h2);
+  line-height: var(--enph-lh-snug);
+  letter-spacing: var(--enph-tracking-sub);
+  color: var(--enph-gray-01);
+}
+
+.enph-h3 {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-h3);
+  line-height: var(--enph-lh-snug);
+  color: var(--enph-gray-01);
+}
+
+.enph-h4 {
+  font-family: var(--enph-font-primary);
+  font-weight: 500;
+  font-size: var(--enph-fs-h4);
+  line-height: var(--enph-lh-snug);
+  color: var(--enph-gray-01);
+}
+
+.enph-body {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-body);
+  line-height: var(--enph-lh-body);
+  letter-spacing: var(--enph-tracking-body);
+  color: var(--enph-gray-01);
+}
+
+.enph-body-lg {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-body-lg);
+  line-height: var(--enph-lh-body);
+  letter-spacing: var(--enph-tracking-body);
+  color: var(--enph-gray-01);
+}
+
+.enph-body-sm {
+  font-family: var(--enph-font-primary);
+  font-weight: 400;
+  font-size: var(--enph-fs-body-sm);
+  line-height: var(--enph-lh-body);
+  letter-spacing: var(--enph-tracking-body);
+  color: var(--enph-gray-02);
+}
+
+/* T-Star Pro — ALWAYS uppercase, tracked out, used for technical info, eyebrows, captions */
+.enph-tstar {
+  font-family: var(--enph-font-technical);
+  font-weight: 500;
+  font-size: var(--enph-fs-tstar);
+  line-height: var(--enph-lh-tstar);
+  letter-spacing: var(--enph-tracking-tstar);
+  text-transform: uppercase;
+  color: var(--enph-gray-01);
+}
+
+.enph-tstar-bold {
+  font-family: var(--enph-font-technical);
+  font-weight: 700;
+  font-size: var(--enph-fs-tstar);
+  line-height: var(--enph-lh-tstar);
+  letter-spacing: var(--enph-tracking-tstar);
+  text-transform: uppercase;
+  color: var(--enph-gray-01);
+}
+
+.enph-eyebrow {
+  font-family: var(--enph-font-technical);
+  font-weight: 500;
+  font-size: var(--enph-fs-tstar);
+  line-height: var(--enph-lh-tstar);
+  letter-spacing: var(--enph-tracking-tstar);
+  text-transform: uppercase;
+  color: var(--enph-gray-02);
+  margin-bottom: var(--enph-space-3);
+  display: block;
+}
+
+/* ============================================================
+   SEMANTIC ELEMENT DEFAULTS (opt-in via .enph-content)
+   ============================================================ */
+.enph-content { font-family: var(--enph-font-primary); color: var(--enph-fg-1); line-height: var(--enph-lh-body); }
+.enph-content h1 { font: 400 var(--enph-fs-h1)/var(--enph-lh-tight) var(--enph-font-primary); letter-spacing: -0.01em; margin: 0 0 var(--enph-space-5); }
+.enph-content h2 { font: 500 var(--enph-fs-h2)/var(--enph-lh-snug) var(--enph-font-primary); margin: 0 0 var(--enph-space-4); }
+.enph-content h3 { font: 400 var(--enph-fs-h3)/var(--enph-lh-snug) var(--enph-font-primary); margin: 0 0 var(--enph-space-3); }
+.enph-content p  { font-size: var(--enph-fs-body); margin: 0 0 var(--enph-space-4); }
+.enph-content a  { color: var(--enph-orange-02); text-decoration: none; border-bottom: 1px solid currentColor; }
+.enph-content a:hover { color: var(--enph-gray-01); }
+.enph-content code { font-family: var(--enph-font-technical); font-size: 0.9em; background: var(--enph-gray-04); padding: 2px 6px; border-radius: 4px; }

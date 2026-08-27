@@ -1,0 +1,475 @@
+cookie:
+  expiry_days: 30
+  key: installer_ecosystem_v1_secret
+  name: installer_ecosystem_auth
+credentials:
+  usernames:
+    admin:
+      country: ''
+      email: admin@enphase.com
+      name: Admin
+      password: $2b$12$wg2IzcFS/f4DIdzomebTGe7Ua1nS019EhwGtBom/hCsff.oYqPf.y
+      role: admin
+      rsm_name: ''
+    cm_at:
+      country: AT
+      email: cm.at@enphase.com
+      name: Austria CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_be:
+      country: BE
+      email: cm.be@enphase.com
+      name: Belgium CM
+      password: $2b$12$/jIsbw4dmB6RR.nhCV8mYO51NWFbJChJOBQ94gWJdSmX5TtS95bUu
+      role: country_manager
+      rsm_name: ''
+    cm_ch:
+      country: CH
+      email: cm.ch@enphase.com
+      name: Switzerland CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_de:
+      country: DE
+      email: cm.de@enphase.com
+      name: Germany CM
+      password: $2b$12$nQEcMaA1Q2B5q7cVQzOo8uMZsp3E0jKkCDliRV7vPSbKq2jd8cjn6
+      role: country_manager
+      rsm_name: ''
+    cm_dk:
+      country: DK
+      email: cm.dk@enphase.com
+      name: Denmark CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_es:
+      country: ES
+      email: cm.es@enphase.com
+      name: Spain CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_fi:
+      country: FI
+      email: cm.fi@enphase.com
+      name: Finland CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_fr:
+      country: FR
+      email: cm.fr@enphase.com
+      name: France CM
+      password: $2b$12$8UESlMY0RoXckByY8BAfNOq4Kb2Z1c8v7OFSbz4a3u1l1lwkGAUq2
+      role: country_manager
+      rsm_name: ''
+    cm_gb:
+      country: GB
+      email: cm.gb@enphase.com
+      name: United Kingdom CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_hr:
+      country: HR
+      email: cm.hr@enphase.com
+      name: Croatia CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_ie:
+      country: IE
+      email: cm.ie@enphase.com
+      name: Ireland CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_it:
+      country: IT
+      email: cm.it@enphase.com
+      name: Italy CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_lt:
+      country: LT
+      email: cm.lt@enphase.com
+      name: Lithuania CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_mt:
+      country: MT
+      email: cm.mt@enphase.com
+      name: Malta CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_nl:
+      country: NL
+      email: cm.nl@enphase.com
+      name: Netherlands CM
+      password: $2b$12$9Ng6Fzs0mAryR8jtGy/vNObLv21Yi1Oe3gw.L914372qnYjHfNLDy
+      role: country_manager
+      rsm_name: ''
+    cm_pl:
+      country: PL
+      email: cm.pl@enphase.com
+      name: Poland CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_pt:
+      country: PT
+      email: cm.pt@enphase.com
+      name: Portugal CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_re:
+      country: RE
+      email: cm.re@enphase.com
+      name: Reunion CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_ro:
+      country: RO
+      email: cm.ro@enphase.com
+      name: Romania CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_us:
+      country: US
+      email: cm.us@enphase.com
+      name: United States CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    cm_za:
+      country: ZA
+      email: cm.za@enphase.com
+      name: South Africa CM
+      password: $2b$12$3ZZZb4WADNn50voJGEj1GOCZo36w9.DFnMLLw.UV9.qDQrwVY2vQ.
+      role: country_manager
+      rsm_name: ''
+    rsm_andrea_antolini:
+      country: ''
+      email: andrea.antolini@enphase.com
+      name: Andrea Antolini
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Andrea Antolini
+    rsm_anish_shah:
+      country: ''
+      email: anish.shah@enphase.com
+      name: Anish Shah
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Anish Shah
+    rsm_asher_levinson:
+      country: ''
+      email: asher.levinson@enphase.com
+      name: Asher Levinson
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Asher Levinson
+    rsm_bjorn_kelgtermans:
+      country: ''
+      email: bjorn.kelgtermans@enphase.com
+      name: Bjorn Kelgtermans
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Bjorn Kelgtermans
+    rsm_boomi_fulluser:
+      country: ''
+      email: boomi.fulluser@enphase.com
+      name: Boomi FullUser
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Boomi FullUser
+    rsm_boris_cicero:
+      country: ''
+      email: boris.cicero@enphase.com
+      name: Boris Cicero
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Boris Cicero
+    rsm_carlos_sellas:
+      country: ''
+      email: carlos.sellas@enphase.com
+      name: Carlos Sellas
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Carlos Sellas
+    rsm_cl_ment_trasfi:
+      country: ''
+      email: clément.trasfi@enphase.com
+      name: Clément Trasfi
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Clément Trasfi
+    rsm_clark_galloway:
+      country: ''
+      email: clark.galloway@enphase.com
+      name: Clark Galloway
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Clark Galloway
+    rsm_david_duculty:
+      country: ''
+      email: david.duculty@enphase.com
+      name: David Duculty
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: David Duculty
+    rsm_elena_tagliani:
+      country: ''
+      email: elena.tagliani@enphase.com
+      name: Elena Tagliani
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Elena Tagliani
+    rsm_ian_knox:
+      country: ''
+      email: ian.knox@enphase.com
+      name: Ian Knox
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Ian Knox
+    rsm_jan_roschek:
+      country: ''
+      email: jan.roschek@enphase.com
+      name: Jan Roschek
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Jan Roschek
+    rsm_jay_hermon:
+      country: ''
+      email: jay.hermon@enphase.com
+      name: Jay Hermon
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Jay Hermon
+    rsm_jean_alexandre_olczak:
+      country: ''
+      email: jean-alexandre.olczak@enphase.com
+      name: Jean-Alexandre Olczak
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Jean-Alexandre Olczak
+    rsm_jonas_immler:
+      country: ''
+      email: jonas.immler@enphase.com
+      name: Jonas Immler
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Jonas Immler
+    rsm_kay_crombag:
+      country: ''
+      email: kay.crombag@enphase.com
+      name: Kay Crombag
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Kay Crombag
+    rsm_kim_nordveit:
+      country: ''
+      email: kim.nordveit@enphase.com
+      name: Kim Nordveit
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Kim Nordveit
+    rsm_koen_mertens:
+      country: ''
+      email: koen.mertens@enphase.com
+      name: Koen Mertens
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Koen Mertens
+    rsm_maarten_riedijk:
+      country: ''
+      email: maarten.riedijk@enphase.com
+      name: Maarten Riedijk
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Maarten Riedijk
+    rsm_maaty_bouanane:
+      country: ''
+      email: maaty.bouanane@enphase.com
+      name: Maaty Bouanane
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Maaty Bouanane
+    rsm_magdalena_nowak:
+      country: ''
+      email: magdalena.nowak@enphase.com
+      name: Magdalena Nowak
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Magdalena Nowak
+    rsm_manfred_schmidt:
+      country: ''
+      email: manfred.schmidt@enphase.com
+      name: Manfred Schmidt
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Manfred Schmidt
+    rsm_martin_binzer:
+      country: ''
+      email: martin.binzer@enphase.com
+      name: Martin Binzer
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Martin Binzer
+    rsm_mathias_petrasch_liebheit:
+      country: ''
+      email: mathias.petrasch-liebheit@enphase.com
+      name: Mathias Petrasch-Liebheit
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Mathias Petrasch-Liebheit
+    rsm_matthew_warren:
+      country: ''
+      email: matthew.warren@enphase.com
+      name: Matthew Warren
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Matthew Warren
+    rsm_michael_burgess:
+      country: ''
+      email: michael.burgess@enphase.com
+      name: Michael Burgess
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Michael Burgess
+    rsm_miriam_herfurth:
+      country: ''
+      email: miriam.herfurth@enphase.com
+      name: Miriam Herfurth
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Miriam Herfurth
+    rsm_nicolas_levavasseur:
+      country: ''
+      email: nicolas.levavasseur@enphase.com
+      name: Nicolas LEVAVASSEUR
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Nicolas LEVAVASSEUR
+    rsm_nicolas_levavasseur_2:
+      country: ''
+      email: nicolas.levavasseur@enphase.com
+      name: Nicolas Levavasseur
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Nicolas Levavasseur
+    rsm_paloma_rodriguez:
+      country: ''
+      email: paloma.rodriguez@enphase.com
+      name: Paloma Rodriguez
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Paloma Rodriguez
+    rsm_pascal_broers:
+      country: ''
+      email: pascal.broers@enphase.com
+      name: Pascal Broers
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Pascal Broers
+    rsm_pim_schouten:
+      country: ''
+      email: pim.schouten@enphase.com
+      name: Pim Schouten
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Pim Schouten
+    rsm_prasanna_rotti:
+      country: ''
+      email: prasanna.rotti@enphase.com
+      name: Prasanna Rotti
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Prasanna Rotti
+    rsm_romuald_pannetier:
+      country: ''
+      email: romuald.pannetier@enphase.com
+      name: Romuald Pannetier
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Romuald Pannetier
+    rsm_sabbas_daniel:
+      country: ''
+      email: sabbas.daniel@enphase.com
+      name: Sabbas Daniel
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Sabbas Daniel
+    rsm_sam_patel:
+      country: ''
+      email: sam.patel@enphase.com
+      name: Sam Patel
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Sam Patel
+    rsm_samer_el_khatib:
+      country: ''
+      email: samer.el-khatib@enphase.com
+      name: Samer El-Khatib
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Samer El-Khatib
+    rsm_scott_cicora:
+      country: ''
+      email: scott.cicora@enphase.com
+      name: Scott Cicora
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Scott Cicora
+    rsm_sean_collier:
+      country: ''
+      email: sean.collier@enphase.com
+      name: Sean Collier
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Sean Collier
+    rsm_selik_marcelissen:
+      country: ''
+      email: selik.marcelissen@enphase.com
+      name: Selik Marcelissen
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Selik Marcelissen
+    rsm_stephane_chevrel:
+      country: ''
+      email: stephane.chevrel@enphase.com
+      name: Stephane Chevrel
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Stephane Chevrel
+    rsm_thomas_van_gulik:
+      country: ''
+      email: thomas.van.gulik@enphase.com
+      name: Thomas van Gulik
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Thomas van Gulik
+    rsm_tom_wilson:
+      country: ''
+      email: tom.wilson@enphase.com
+      name: Tom Wilson
+      password: $2b$12$Nmuei8ZbnnCceJdiWcjLse85AMTH5Cv4KfwGEEtywEFMkJCC1mfMu
+      role: rsm
+      rsm_name: Tom Wilson
+    rsm_virginie:
+      country: ''
+      email: virginie@enphase.com
+      name: Virginie Jonet
+      password: $2b$12$4HfoObJxEd0Hjft.LvnSse2lKMGTkLHpXcoR6DjJ.rOJ8pOx5F9FG
+      role: rsm
+      rsm_name: Virginie Jonet

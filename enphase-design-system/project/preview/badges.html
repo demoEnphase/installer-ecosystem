@@ -1,0 +1,20 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Status badges</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body { margin:0; padding:22px; background:#fff; font-family: var(--enph-font-primary); display:flex; flex-wrap: wrap; gap:10px; align-items:center; }
+  .b { font-family: var(--enph-font-technical); font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; padding: 6px 12px; border-radius: 999px; display:inline-flex; align-items:center; gap:6px; }
+  .dot { width:6px; height:6px; border-radius:50%; }
+  .ok { background: rgba(67,158,88,0.12); color:#439E58; } .ok .dot { background:#439E58; }
+  .warn { background: rgba(255,208,44,0.20); color:#3C3C3C; } .warn .dot { background:#FFD02C; }
+  .err { background: rgba(222,33,0,0.10); color:#DE2100; } .err .dot { background:#DE2100; }
+  .info { background: rgba(44,67,111,0.10); color:#2C436F; } .info .dot { background:#2C436F; }
+  .neu { background:#F4F3F0; color:#3C3C3C; } .neu .dot { background:#7D7D7D; }
+</style></head>
+<body>
+  <span class="b ok"><span class="dot"></span>Online</span>
+  <span class="b warn"><span class="dot"></span>Charging</span>
+  <span class="b err"><span class="dot"></span>Offline</span>
+  <span class="b info"><span class="dot"></span>Grid Tied</span>
+  <span class="b neu"><span class="dot"></span>Standby</span>
+</body></html>

@@ -1,0 +1,1959 @@
+Visual identity
+guidelines
+Version 1.3
+
+-- 1 of 86 --
+
+Logo 	3
+Primary logo lockup 	4
+Primary logo clear space 	6
+Secondary stacked logo 	7
+Stacked logo clear space 	8
+Logo color 	9
+Single color applications 	10
+Logo placement 	11
+Logo mark usage 	12
+Logo misuse 	13
+Color 	14
+Our palette 	15
+Neutrals 	16
+Brand colors 	18
+Gradients 	23
+Gradients in use 	24
+Gradient misuse 	25
+Palette usage 	26
+Typography 	28
+Our typography 	29
+Enphase Visuelt 	30
+Enphase Visuelt misuse 	31
+T-Star Pro 	32
+T-Star Pro misuse 	35
+Typesetting 	36
+Type pairing 	37
+Calls to action 	38
+Icons 	39
+Grid 	40
+Art direction 	41
+Lifestyle photography 	42
+Product imagery 	46
+Illustration 	48
+Grids and layouts 	50
+Compositions 	51
+Formats 	52
+Margins 	53
+Columns 	55
+Rows 	56
+Finalized 	57
+Applying content 	58
+Modular layouts 	60
+Tile cards 	61
+Corner radius 	62
+Single images 	63
+Stacked Tiles 	65
+Text and image 	67
+Split Tiles 	71
+Tile captions 	73
+Tile grids 	75
+Split tile asymmetrical 	77
+Grids and layout misuse 	81
+Applications 	82
+Contents
+2	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 2 of 86 --
+
+Logo
+3	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 3 of 86 --
+
+Primary logo
+lockup
+Our logo is used in nearly all of our
+communications. It is our stamp of
+authenticity. It is most important that
+it is reproduced consistently in a way
+that it is clearly legible and identifiable.
+It is vital that the correct logo is used
+in each situation.
+The horizontal version is our preferred
+logo. It should always be the first choice
+over the vertical logo.
+4	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 4 of 86 --
+
+T H E W O R D M A R K 	R E G I S T E R E D
+T R A D E M A R K
+T H E L O G O L O C K - U P
+T H E L O G O M A R K
+Primary logo
+lockup
+The Enphase logo lockup is made of
+two elements, the Logo mark and the
+wordmark. The Enphase logo has been
+trademarked. Please ensure that you
+always use the logo with its registered
+trademark. For specialty items, where the
+trademark cannot be printed clearly, it is
+permissible to omit the trademark symbol.
+5	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 5 of 86 --
+
+Primary logo
+clear space
+The minimum clear space around
+the primary logo should be height
+of the ‘E’ in the wordmark.
+X	X
+X = H E I G H T O F
+T H E ‘ E ’ I N T H E T H E
+W O R D M A R K
+X	X
+6	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 6 of 86 --
+
+Secondary
+stacked logo
+The stacked version of the logo is
+ONLY used in exceptional situations
+where limited space prevents the use
+of the horizontal logo.
+T H E L O G O L O C K - U P
+T H E L O G O M A R K
+T H E W O R D M A R K
+R E G I S T E R E D
+T R A D E M A R K
+7	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 7 of 86 --
+
+Stacked logo
+clear space
+The minimum clear space around
+the stacked logo should be twice (2x)
+the height of the height of the ‘E’ in
+the wordmark.
+2 X
+2 X
+2 X
+2 X
+X = H E I G H T O F T H E ‘ E ’
+I N T H E T H E W O R D M A R K
+8	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 8 of 86 --
+
+Logo color
+Depending on the background the
+wordmark can appear in either black
+or white. It is important to ensure
+proper contrast between the Logo
+mark and the background.
+9	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 9 of 86 --
+
+Single color
+applications
+Some applications won’t allow for
+multi-color reproduction. In these
+instances we use the logo in either
+black or white. In instances when
+the logo lockup is overlaying imagery
+the white logo is preferred.
+1 0	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 10 of 86 --
+
+Logo placement
+Regardless of communication size or
+dimension, the Enphase logo can be
+placed in nine locations. This keeps
+logo placement simple and consistent,
+while allowing enough fexibility to
+accommodate our graphic system.
+1 1	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 11 of 86 --
+
+Logo mark usage
+There are circumstances when the
+Logo mark can be separated from the
+logo lockup. These should be reserved
+for examples where the Logo mark can
+appear in close proximity to the full
+logo lockup or as social avatars.
+1 2	L o g o	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 12 of 86 --
+
+1 3	L o g o	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+Logo
+Misuse
+Don’t color the wordmark in colors other than black or white
+Don’t rotate the logo 	Don’t outline the logo 	Don’t re align the symbol and wordmark
+Don’t invert the colors of the logo 	Don’t apply gradients to the logo
+
+-- 13 of 86 --
+
+Color
+1 4	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 14 of 86 --
+
+Color
+As light changes temperature throughout
+the day it can make rooms feel warmer.
+The shadows and highlights are warmer
+neutrals that are more inviting than a
+standard bright white and cold gray that
+we associate with technology products.
+1 5	E N P H A S E	V E r S I o N 1 . 3	V I S U A L I D E N T I T Y 	g U I D E L I N E S 	C o L o r
+
+-- 15 of 86 --
+
+Neutrals
+Our palette of neutrals is inspired by the
+warmth of sunlight on a white wall.
+This palette helps establish a warm and
+soothing tone.
+B L A C K
+r g B : 0 , 0 , 0
+H E X : # 0 0 0 0 0 0
+C M Y K C o AT E D : 1 0 , 1 0 , 1 5 , 1 0 0
+C M Y K U N C o AT E D : 1 0 , 1 0 , 1 5 , 1 0 0
+P M S C o AT E D : B L A C K C
+P M S : U N C o AT E D : N E U T r A L B L A C K U
+g r A Y 0 2
+r g B : 1 2 5 , 1 2 5 , 1 2 5
+H E X : # 7 D 7 D 7 D
+C M Y K C o AT E D : 0 , 0 , 5 , 6 7
+C M Y K U N C o AT E D : 0 , 0 , 5 , 6 7
+P M S C o AT E D : C o o L 	g r E Y 8 C
+P M S U N C o AT E D : C o o L 	g r E Y 8 U
+g r A Y 0 4
+r g B : 2 4 4 , 2 4 3 , 2 4 0
+H E X : # F 4 F 3 F 0
+C M Y K C o AT E D : 0 , 0 , 5 , 1 5
+C M Y K U N C o AT E D : 0 , 0 , 5 , 1 5
+P M S C o AT E D : C o o L 	g r E Y 1 C
+P M S U N C o AT E D : C o o L 	g r E Y 1 U
+W H I T E
+r g B : 2 5 5 , 2 5 5 , 2 5 5
+H E X : # F F F F F F
+C M Y K C o AT E D : N / A
+C M Y K U N C o AT E D : N / A
+P M S C o AT E D : N / A
+P M S : U N C o AT E D : N / A
+g r A Y 0 3
+r g B : 2 2 0 , 2 2 0 , 2 1 4
+H E X : # D C D C D 6
+C M Y K C o AT E D : 0 , 0 , 5 , 3 5
+C M Y K U N C o AT E D : 0 , 0 , 5 , 3 5
+P M S C o AT E D : C o o L 	g r E Y 3 C
+P M S U N C o AT E D : C o o L 	g r E Y 3 U
+W A r M W H I T E
+r g B : 2 5 0 , 2 4 6 , 2 3 9
+H E X : # F A F 6 E F
+C M Y K C o AT E D : 0 , 2 , 5 , 2
+C M Y K U N C o AT E D : 0 , 2 , 5 , 2
+P M S C o AT E D : 9 1 0 0 C
+P M S : U N C o AT E D : 9 1 0 0 U
+g r A Y 0 1
+r g B : 6 0 , 6 0 , 6 0
+H E X : # 3 C 3 C 3 C
+C M Y K C o AT E D : 0 , 0 , 5 , 9 0
+C M Y K U N C o AT E D : 0 , 0 , 5 , 9 0
+P M S C o AT E D : 2 3 3 6 C
+P M S : U N C o AT E D : 4 1 9 U
+1 6	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 16 of 86 --
+
+# 0 0 0 0 0 0
+B L A C K
+Aa 	Aa 	Aa 	Aa 	Aa 	Aa 	Aa
+# 3 C 3 C 3 C
+g r A Y 0 1
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+# 7 D 7 D 7 D
+g r A Y 0 2
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa*
+Aa
+Aa
+Aa*
+Aa
+Aa*
+Aa
+Aa*
+Aa
+# D C D C D 6
+g r A Y 0 3
+# F F F F F F
+W H I T E
+Neutrals
+accessibility
+When applying neutral colors to typography,
+it is important that sufficient contrast is
+achieved to maintain legibility. The Web
+Content Accessibility Guidelines (WCAG)
+set specific ratios that achieve the minimum
+required contrast for legibility. Checking
+that two colors are accessible may be done
+through a contrast checker which follows
+these guidelines.
+Shown opposite are which neutral colors
+may be used to pass accessibility guidelines.
+*Only accessible for large text
+and graphic (18px minimum font size
+for accessibility compliance)
+1 7	C o L o r	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+
+-- 17 of 86 --
+
+Brand colors
+The rest of our palette takes inspiration
+from colors found around the home.
+We’ve selected a group of colors
+that are optimistic, warm, natural,
+and contemporary.
+We avoid colors that are overly harsh,
+synthetic, or digital.
+1 8	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 18 of 86 --
+
+Light theme
+brand colors
+Use these values when using the
+brand colors on White and Warm White
+backgrounds.
+C o r A L
+r g B : 2 4 4 , 8 2 , 1 1 2
+H E X : # F 4 5 2 7 0
+C M Y K C o AT E D : 0 , 9 5 , 4 0 , 0
+C M Y K U N C o AT E D : 0 , 9 0 , 5 0 , 0
+P M S C o AT E D : 1 9 1 C
+P M S U N C o AT E D : 1 9 2 U
+E N P H A S E 	o r A N g E 0 2
+r g B : 2 3 4 , 9 7, 0
+H E X : # E A 6 1 0 0
+C M Y K C o AT E D : 0 , 6 0 , 8 0 , 0
+C M Y K U N C o AT E D : 0 , 6 0 , 8 0 , 0
+P M S C o AT E D : 1 5 7 5 C
+P M S U N C o AT E D : 1 5 1 U
+g r E E N 0 2
+r g B : 6 7, 1 5 8 , 8 8
+H E X : # 4 3 9 E 5 8
+C M Y K C o AT E D : 8 0 , 0 , 8 5 , 0
+C M Y K U N C o AT E D : 8 0 , 0 , 8 5 , 0
+P M S C o AT E D : 7 4 7 9 C
+P M S U N C o AT E D : 7 4 7 9 U
+Y E L L o W
+r g B : 2 5 5 , 2 0 8 , 4 4
+H E X : # F F D 0 2 C
+C M Y K C o AT E D : 0 , 1 3 , 1 0 0 , 0
+C M Y K U N C o AT E D : 0 , 1 3 , 1 0 0 , 0
+P M S C o AT E D : 1 1 5 C
+P M S U N C o AT E D : 1 1 5 U
+I N D I g o
+r g B : 4 4 , 6 7, 1 1 1
+H E X : # 2 C 4 3 6 F
+C M Y K C o AT E D : 1 0 0 , 6 0 , 0 , 5 5
+C M Y K U N C o AT E D : 1 0 0 , 5 5 , 0 , 5 5
+P M S C o AT E D : 7 6 9 3 C
+P M S U N C o AT E D : 2 9 4 U
+F U N C T I o N A L 	r E D 0 2
+r g B : 2 2 2 , 3 3 , 0
+H E X : # D E 2 1 0 0
+C M Y K C o AT E D : N / A
+C M Y K U N C o AT E D : N / A
+P M S C o AT E D : N / A
+P M S U N C o AT E D : N / A
+T E A L 0 2
+r g B : 5 9 , 1 5 3 , 1 5 8
+H E X : # 3 B 9 9 9 E
+C M Y K C o AT E D : 6 5 , 1 0 , 3 0 , 0
+C M Y K U N C o AT E D : 7 0 , 1 0 , 3 0 , 0
+P M S C o AT E D : 2 2 2 7 C
+P M S U N C o AT E D : 2 2 2 7 U
+1 9	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 19 of 86 --
+
+Aa*	Aa
+# E A 6 1 0 0
+E N P H A S E 	o r A N g E 0 2
+Aa*
+Aa*	Aa
+# 4 3 9 E 5 8
+g r E E N 0 2
+Aa*
+Aa*	Aa
+# F 4 5 2 7 0
+C o r A L
+Aa*
+Aa*	Aa
+# 3 B 9 9 9 E
+T E A L 0 2
+Aa*
+Aa	Aa
+# F F D 0 2 C
+Y E L L o W
+Aa
+Aa	Aa
+# 2 C 4 3 6 F
+I N D I g o
+Aa
+Aa	Aa
+# D E 2 1 0 0
+F U N C T I o N A L 	r E D 0 2
+Aa
+Light theme
+accessibility
+When applying color to typography, it is
+important that sufficient contrast is achieved
+to maintain legibility. The Web Content
+Accessibility Guidelines (WCAG) set specific
+ratios that achieve the minimum required
+contrast for legibility. Checking that two
+colors are accessible may be done through
+a contrast checker which follows these
+guidelines.
+Shown opposite are which light theme
+color combinations may be used to pass
+accessibility guidelines.
+*Only accessible for large text
+and graphic (18px minimum font size
+for accessibility compliance)
+Aa*
+Aa*
+Aa*
+Aa*
+Aa
+Aa
+Aa
+2 0	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 20 of 86 --
+
+E N P H A S E 	o r A N g E 0 1
+r g B : 2 5 5 , 1 3 9 , 7 3
+H E X : # F F 8 B 4 9
+C M Y K C o AT E D : 0 , 6 0 , 8 0 , 0
+C M Y K U N C o AT E D : 0 , 6 0 , 8 0 , 0
+P M S C o AT E D : 1 5 7 5 C
+P M S U N C o AT E D : 1 5 1 U
+g r E E N 0 1
+r g B : 9 7, 1 9 2 , 1 0 6
+H E X : # 6 1 C 0 6 A
+C M Y K C o AT E D : 8 0 , 0 , 8 5 , 0
+C M Y K U N C o AT E D : 8 0 , 0 , 8 5 , 0
+P M S C o AT E D : 7 4 7 9 C
+P M S U N C o AT E D : 7 4 7 9 U
+Y E L L o W
+r g B : 2 5 5 , 2 0 8 , 4 4
+H E X : # F F D 0 2 C
+C M Y K C o AT E D : 0 , 1 3 , 1 0 0 , 0
+C M Y K U N C o AT E D : 0 , 1 3 , 1 0 0 , 0
+P M S C o AT E D : 1 1 5 C
+P M S U N C o AT E D : 1 1 5 U
+P I N K
+r g B : 2 5 5 , 1 8 2 , 1 8 2
+H E X : # F F B 6 B 6
+C M Y K C o AT E D : 0 , 3 7, 1 2 , 0
+C M Y K U N C o AT E D : 0 , 3 5 , 1 5 , 0
+P M S C o AT E D : 4 9 5 C
+P M S U N C o AT E D : 5 1 0 U
+L I g H T B L U E
+r g B : 2 0 0 , 2 2 2 , 2 5 5
+H E X : # C 8 D E F F
+C M Y K C o AT E D : 3 0 , 8 , 0 , 0
+C M Y K U N C o AT E D : 3 0 , 5 , 0 , 0
+P M S C o AT E D : 2 7 7 C
+P M S U N C o AT E D : 2 7 1 7 U
+T E A L 0 1
+r g B : 9 1 , 1 8 7, 1 9 3
+H E X : # 5 B B B C 1
+C M Y K C o AT E D : 6 5 , 1 0 , 3 0 , 0
+C M Y K U N C o AT E D : 7 0 , 1 0 , 3 0 , 0
+P M S C o AT E D : 2 2 2 7 C
+P M S U N C o AT E D : 2 2 2 7 U
+F U N C T I o N A L 	r E D 0 1
+r g B : 2 5 3 , 5 6 , 3 8
+H E X : # F D 3 8 2 6
+C M Y K C o AT E D : N / A
+C M Y K U N C o AT E D : N / A
+P M S C o AT E D : N / A
+P M S U N C o AT E D : N / A
+Dark theme
+brand colors
+Use these values when using the
+brand colors on Black and Gray 01
+backgrounds.
+2 1	C o L o r	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+
+-- 21 of 86 --
+
+Aa	Aa
+# F F 8 B 4 9
+E N P H A S E 	o r A N g E 0 1
+Aa	Aa
+Aa	Aa
+# 6 1 C 0 6 A
+g r E E N 0 1
+Aa	Aa
+Aa	Aa
+# F F B 6 B 6
+P I N K
+Aa	Aa
+Aa	Aa
+# 5 B B B C 1
+T E A L 0 1
+Aa	Aa
+Aa	Aa
+# F F D 0 2 C
+Y E L L o W
+Aa	Aa
+Aa	Aa
+# C 8 D E F F
+L I g H T B L U E
+Aa	Aa
+Aa*	Aa
+# F D 3 8 2 6
+F U N C T I o N A L 	r E D 0 1
+Aa*	Aa
+Dark theme
+accessibility
+When applying color to typography, it is
+important that sufficient contrast is achieved
+to maintain legibility. The Web Content
+Accessibility Guidelines (WCAG) set specific
+ratios that achieve the minimum required
+contrast for legibility. Checking that two
+colors are accessible may be done through
+a contrast checker which follows these
+guidelines.
+Shown opposite are which dark theme
+color combinations may be used to pass
+accessibility guidelines.
+*Only accessible for large text
+and graphic (18px minimum font size
+for accessibility compliance)
+2 2	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 22 of 86 --
+
+Gradients
+We use several gradients to evoke
+a sense of light traveling through an
+environment. Each gradient takes
+a cue from the sun’s position in the
+sky at different times of day.
+Our brand gradient is used most within
+Enphase communications. Examples
+of where our brand gradient may
+appear are as a background element on
+applications and within backdrops
+of product images or illustrations.
+In addition to our brand gradient, we
+also use spotlight gradients, a sunrise
+gradient and a sunset gradient. These
+colors should be reserved for moments
+within user interfaces and backdrops for
+illustrations.
+All gradient end-to-end points are
+fixed to the container height and run
+in a 90º vertical orientation.
+B r A N D 	g r A D I E N T
+# F 4 9 7 B 3
+# 8 1 C 6 B 9
+# F C B 5 7 1
+# F 7 D 9 A 9	# E 0 E 1 A 4
+# F F 8 B 4 9
+S P o T L I g H T B L U E 	S P o T L I g H T 	g r E E N 	S P o T L I g H T 	o r A N g E
+# 7 B B 9 E 8
+# D 6 E 6 F F
+# F C B 5 7 1
+# 2 C 4 3 6 F
+# F 4 9 7 8 7
+S U N r I S E 	g r A D I E N T 	S U N S E T 	g r A D I E N T
+# C 8 D E F F
+# F F B 6 B 6
+2 3	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 23 of 86 --
+
+Microinverters
+IQ8
+B r A N D 	g r A D I E N T S A S B A C K g r o U N D 	S P o T L I g H T 	g r A D I E N T I N U I
+Snapshot
+1,245
+Your system has generated 6.1MWh of electricity
+since your installation. This helped you save an
+estimated $1,245 in electricity costs.
+$
+Share
+L I F E T I M E S A V I N g S
+S U N r I S E 	g r A D I E N T I N I L L U S T r AT I o N
+B r A N D 	g r A D I E N T S I N P r o D U C T I M A g E r Y 	S P o T L I g H T 	g r A D I E N T I N I L L U S T r AT I o N 	S U N S E T 	g r A D I E N T I N I L L U S T r AT I o N
+Gradients in use
+Our brand gradient is at its best
+when serving as a backdrop for other
+content. It can help establish depth,
+allowing other visual content to lift
+off and come forward in the two
+dimensional picture plane or as an
+environment for product imagery.
+Spotlight gradients are used for
+functional UI within the Enphase app
+and as a background within illustration.
+Our sunrise and sunset gradient is
+reserved specifically for illustration
+backgrounds.
+2 4	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 24 of 86 --
+
+2 5	C o L o r	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+Gradients
+Misuse
+Don’t Add multiple stops to the gradient 	Don’t create new gradients 	Don’t layer gradients 	Don’t Flip the gradient angle
+
+-- 25 of 86 --
+
+Light theme
+palette usage
+Our neutrals are used for backgrounds
+and primary text elements. Neutrals are
+sophisticated and allow the color and
+contents of our imagery to come forward.
+The brand colors are used for icons,
+headlines, UI elements, illustrations,
+and visual pacing.
+2 6	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 26 of 86 --
+
+Dark theme
+palette usage
+Our neutrals are used for backgrounds
+and primary text elements. Neutrals are
+sophisticated and allow the color and
+contents of our imagery to come forward.
+The brand colors are used for icons,
+headlines, UI elements, illustrations,
+and visual pacing.
+2 7	C o L o r	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 27 of 86 --
+
+Typography
+2 8	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 28 of 86 --
+
+Title
+2 9	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E	T Y P o g r A P H Y	V E r S I o N 1 . 3
+AaBbC
+ABCDEF
+Our typography
+Enphase’s visual tone and voice is
+colored by our typography. To capture
+Enphase’s primary qualities, ‘friendly’,
+and ‘technically sophisticated’ we
+employ two typefaces families,
+Enphase Visuelt and T-Star Pro.
+2 9	V I S U A L I D E N T I T Y 	g U I D E L I N E S	E N P H A S E	E N P H A S E
+
+-- 29 of 86 --
+
+Our typography
+Enphase Visuelt is the primary
+typeface for all visual communication
+and should be used for most copy,
+including body copy, headlines,
+and CTAs.
+For highly technical information,
+detailed stats, section eyebrows,
+and captions, Enphase uses T-Star Pro.
+Its shared proportions and mono-
+line stroke weight are reminiscent of
+precision instruments such as calipers,
+cameras, and microscopes.
+Enphase Visuelt
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghjiklmnopqrstuvwxyz
+0123456789
+T- S TA R P R O
+A B C D E F g H I J K L M N o P Q r S T U V W X Y Z
+0 1 2 3 4 5 6 7 8 9
+P r I M A r Y T Y P E F A C E
+S E C o N D A r Y T Y P E F A C E
+3 0	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 30 of 86 --
+
+Enphase Visuelt
+For the majority of headlines and body
+copy, we use the regular weight of
+Enphase Visuelt. Medium should only
+ever be used when we need more
+hierarchy or emphasis within headlines.
+The bold weight should only be for
+added hierarchy and emphasis within
+body copy. Following this will allow
+for clarity, consistency, and a strong
+hierarchy for all communications.
+All copy set in Enphase Visuelt should
+appear in sentence case and never
+upper case.
+ABCDEFGHIJKLMN
+OPQRSTUVWXYZ
+Enphase
+Visuelt
+Regular 	Italic
+Medium 	Italic
+Bold 	Italic
+abcdefghijklmn
+opqrstuvwxyz
+0123456789
+U P P E r C A S E	P r I M A r Y T Y P E F A C E
+L o W E r C A S E	W E I g H T S
+N U M E r A L S
+3 1	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 31 of 86 --
+
+3 2	T Y P o g r A P H Y	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+Enphase Visuelt
+Misuse
+Don’t Use Enphase Visuelt in all-caps for headlines 	Don’t Use Enphase Visuelt Bold for headlines 	Don’t adjust tracking too tight or too loose.
+S T O R A G E
+Low voltage.
+High safety.
+The Enphase IQ Battery operates
+with low-voltage DC power,
+avoiding the dangers that can come
+with high-volatge DC power.
+EXPLORE THE
+PRODUCT LINE
+IQ BATTERY 10 	IQ BATTERY 3 	IQ8 	SYSTEM CONTROLLER
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Learn More 	Learn More 	Learn More 	Learn More
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+T h e
+s m a r t e s t
+s o l a r
+p o w e r.
+Microinverters are named after their highly
+intelligent microchip. We customize our
+chips to maximize the size, weight, reliability,
+and performance of our products.
+Learn more
+
+-- 32 of 86 --
+
+U P P E r C A S E	P r I M A r Y T Y P E F A C E
+N U M E r A L S	W E I g H T S
+A B C D E F G H I J K L M N
+O P Q R S T U V W X Y Z
+0 1 2 3 4 5 6 7 8 9
+T- S TA R P R O
+M E D I U M
+B 	o 	L D
+T-Star Pro
+T-Star Pro should always appear
+tracked out and set in uppercase
+whenever it is used.
+The bold weight of T-Star pro
+is used for all headlines and and
+the medium is used for all sub-copy.
+This allows for a strong hierarchy
+for all communications.
+3 3	T Y P o g r A P H Y	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+
+-- 33 of 86 --
+
+T-Star Pro
+T-Star is reserved for conveying
+technical information and captions.
+Variation in sizing should be limited
+as much as possible with a preference
+for a single size within a deliverable.
+M I C r o I N V E r T E r S
+S T o r A g E
+1 2 0 K W H
+7 8 º F
+S TAT U S : A C T I V E
+S M A r T P o W E r
+C H A r g I N g
+I Q 7 +
+P r o D U C E D
+U S E D
+T o 	g r I D
+F r o M 	g r I D
+L I V E S TAT U S
+S Y S T E M
+C o N N E C T E D
+o N L I N E
+I Q 8 D
+H o U r S 	o F T E S T I N g
+I S S U E D P AT E N T S
+7 7 %
+F o r E C A S T:
+P A r T L Y C L o U D Y
+1 0 - Y E A r
+W A r r A N T Y
+*
+3 4	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 34 of 86 --
+
+3 5	T Y P o g r A P H Y	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+T-Star Pro
+Misuse
+Don’t Use T-Star Pro for headlines or extended copy 	Don’t Use T-Star Pro for body copy 	Don’t mix multiple sizes of t-star in a single piece of collateral.
+
+-- 35 of 86 --
+
+Typesetting
+When setting headlines Visuelt Regular
+often needs to be a tracked in a few
+units depending on the type size
+anywhere between -8 and -20 units.
+Subheads should be set in Visuelt
+Medium to create even texture with the
+larger Visuelt Regular, depending on
+the size some additional tracking might
+be necessary.
+Body copy should always be Visuelt
+Regular and depending on the type
+size could benefit from a bit of extra
+letter spacing between 8 and 20 units
+depending on the size.
+T-Star Pro should always be set in all
+caps with 150 units of letter spacing
+and leading at 1.5x the type size.
+Enphase Visuelt Regular
+84pt Leading: 100%
+Tracking: -8 to -20
+Visuelt Medium 32pt
+Leading: 36pt
+Tracking: +4
+Body copy should be set in Visuelt Regular between 14 and 24 pt.
+With leading between 110–140% of the type size, depending on the
+reading environment. Visuelt will benefit from a touch of extra letter
+spacing between 8 and 20 units depending on the type size. Bold
+should be used for emphasis in body sizes.
+T- S TA r 	P r o 	S E T I N A L L C A P S W I T H L E T T E r
+S P A C I N g 	S E T T o 	1 5 0 U N I T S . L E A D I N g 	S E T T o
+1 . 5 × T H E T Y P E S I Z E .
+H E r o 	H E A D L I N E
+H E r o 	S U B - H E A D
+B o D Y
+C A P T I o N S /
+T E C H N I C A L D ATA
+3 6	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 36 of 86 --
+
+Type pairing
+Our typefaces work best when in
+strong contrast to one another.
+To preserve T-Star’s technical
+sophistication it should be set quite
+small next to Visuelt. Here are some
+examples of successful hierarchies.
+IQ Battery
+1 0 K W H
+1 0 K W H
+IQ Battery
+E X A M P L E 0 2
+T- S TA r 	A S
+S U P P o r T I N g
+I N F o r M AT I o N
+E X A M P L E 0 1
+T- S TA r 	A S I N F o
+g r A P H I C L A B E L
+E X A M P L E 0 3
+T- S TA r 	A S
+S U P P o r T I N g
+I N F o r M AT I o N
+1,245
+$
+L I F E T I M E S A V I N g S
+3 7	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 37 of 86 --
+
+Calls to action
+For CTAs and buttons we always use
+Visuelt set in Sentence case. This helps
+our language feel inviting rather than
+overly technical.
+Learn more
+Learn more
+Learn more
+X
+X
+Try it out
+Submit
+C TA B U T T o N 	C TA B U T T o N C o N S T r U C T I o N
+C TA T E X T + A r r o W 	C TA T E X T + A r r o W C o N S T r U C T I o N
+Learn morex 	Learn morexxx
+3 8	T Y P o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 38 of 86 --
+
+Icons
+3 9	I C o N S	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 39 of 86 --
+
+Grid
+Product icons should be constructed on
+a 24 x 24 unit grid with a 1 unit line weight.
+As a baseline rule we use rounded
+corners and terminals so the icons feel
+friendly and approachable, even at
+small sizes.
+2 4 U N I T S 	2 0 0 %
+1 0 0 %
+3 0 0 %
+2 4 U N I T S
+4 0	I C o N S	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 40 of 86 --
+
+Lifestyle Photography
+4 1	L I F E S T Y L E 	P H o T o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 41 of 86 --
+
+Lifestyle
+photography
+Our photography inspires our audience
+about the power of clean energy
+use. Clarification of how everything
+works is unnecessary. We build on the
+emotional payoff that our users feel
+when they make, use, save, and own
+their power.
+4 2	L I F E S T Y L E 	P H o T o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 42 of 86 --
+
+Everyday moments
+Our lifestyle images should highlight
+the wide variety of daily activities that
+we rely on power for. Images should
+showcase a variety of homes and
+families in an optimistic way. Illumination
+and light plays an important role in
+telling the story of Enphase, whether it’s
+a space illuminated by electric lights,
+or dramatic rays of sunlight that creates
+a sense of warmth and comfort.
+4 3	L I F E S T Y L E 	P H o T o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 43 of 86 --
+
+Outdoors
+Our outdoor photography should
+provide an inspiring look at the
+experience of using our products away
+from home. Long exposure photography
+to capture starlight or dawn or dusk
+images can capture a sense of adventure
+without being too intimidating to the
+novice adventurer.
+4 4	L I F E S T Y L E 	P H o T o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 44 of 86 --
+
+Inspirational
+imagery
+In addition to showcasing our products
+being used by customers there’s
+opportunity to showcase the feeling
+and excitement brought by Enphase’s
+innovations. Our inspirational imagery
+highlights the beauty and magic of the
+sun as a source for collective inspiration
+and enthusiasm.
+4 5	L I F E S T Y L E 	P H o T o g r A P H Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 45 of 86 --
+
+Product imagery
+Product images are primarily visualized
+using 3D renderings. These rendering allow
+us to present our products in a modern,
+bold, crisp and sophisticated way.
+We use product renderings to demonstrate
+and showcase the form, texture and
+details of Enphase products.
+4 6	P r o D U C T 	I M A g E r Y	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 46 of 86 --
+
+Title
+4 7	P r o D U C T 	I M A g E r Y	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+Rendering
+principles
+Hero product images should use our
+color palette for lighting as if the sunrise
+or sunset was casting a warm light on
+the products themselves. Backgrounds
+can appear as gradients or solid black,
+depending on the needs of the image.
+
+-- 47 of 86 --
+
+Illustration
+Our illustration style is built from
+the evocative nature of our brand
+gradients and lifestyle imagery. Themes
+of dusk, dawn, and clean energy use
+aim to create feelings of optimism and
+heightened reality.
+4 8	I L L U S T r AT I o N	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3	 	4 8	V I S U A L I D E N T I T Y 	g U I D E L I N E S	E N P H A S E
+
+-- 48 of 86 --
+
+Visual qualities
+Simple shapes, gradient colors, and light
+textures give our illustration a editorial
+feel whilst feeling distinct to our brand.
+4 9	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3	I L L U S T r AT I o N
+
+-- 49 of 86 --
+
+Grids and Layout
+5 0	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 50 of 86 --
+
+Composition
+Our composition system is based on
+a simple system of rounded rectangles
+or Tiles. These tile shapes are derived
+from the cells seen on a solar panel.
+By defining the grid based on the width
+or height of the format, the system
+stays flexible, consistent and beyond
+easy to apply.
+Power your
+everyday.
+Power your everyday. 	Learn More
+It’s a
+new
+day for
+solar
+power.
+Power your
+everyday.
+enphase.com
+Power your
+everyday.
+enphase.com
+9 6 S H E E T
+6 4 S H E E T 	L E A D E r B o A r D
+S K Y S C r A P E r 	TA B L o I D 	L E T T E r
+4 8 S H E E T
+Power
+your
+everyday.
+9 : 1 6
+Power
+your
+everyday.
+Power
+your
+everyday.
+1 6 : 9
+1 : 1
+Power your
+everyday.
+Harness the
+power of the sun.
+5 1	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 51 of 86 --
+
+Formats
+These are three common composition
+formats that will be used frequently
+across our communications.
+When appropriate, use these
+formats when creating new designs.
+V E r T I C A L C o M P o S I T I o N 	S Q U A r E C o M P o S I T I o N 	H o r I Z o N TA L C o M P o S I T I o N
+5 2	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 52 of 86 --
+
+Margins
+To create a grid for a composition,
+the first step consists in calculating
+the margins.
+For vertical and square compositions
+we allocate 5% of the total width to
+each side.
+For horizontal compositions we allocate
+5% of the total height.
+For digital applications, please round the
+5% value to the nearest whole number.
+For example, if the width of a digital
+application is 525px, 5% of 525px would
+equal 26.25. Rounding the value to the
+nearest whole number would create a
+margin value of 26px
+5 % O F W I D T H	5 % O F W I D T H	5 % O F H E I G H T
+V E r T I C A L C o M P o S I T I o N 	S Q U A r E C o M P o S I T I o N 	H o r I Z o N TA L C o M P o S I T I o N
+1 0 0 % O F W I D T H
+1 0 0 % O F W I D T H
+1 0 0 % O F H E I G H T
+5 3	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 53 of 86 --
+
+Margin
+exceptions
+There may be some formats where the
+5% rule may result in the margin being
+too wide or too narrow.
+For vertical compositions we may
+allocate 6-20% of the total width to
+each side.
+For horizontal compositions we may
+allocate 6-20% of the total height.
+Show opposite are examples of how this
+rule may be applied to extreme vertical or
+extreme horizontal formats.
+E X T r E M E H o r I Z o N TA L C o M P o S I T I o N	E X T r E M E V E r T I C A L C o M P o S I T I o N
+8 % O F H E I G H T
+1 0 0 % O F H E I G H T
+1 0 0 % O F W I D T H
+1 5 % O F W I D T H
+1 0 0 %
+O F
+W I D T H
+1 0 0 % O F W I D T H
+2 0 % O F H E I G H T
+1 0 % O F W I D T H
+5 4	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 54 of 86 --
+
+Columns
+It is favorable to assign a number of
+columns divisible by three for any
+composition. However, the number of
+columns can go up or down depending
+on the needs of the designer. Here are
+the most common number of columns
+used vertical and horizontal formats.
+In order to determine the width of
+column gutters, we divide the margin
+width (X) into quarters. For example,
+if the margin in a vertical composition
+is 5% of the total width, the gutters will
+be 1.25% of the total width.
+X	X	X
+1/4 X	1/4 X	1/4 X
+V E r T I C A L C o M P o S I T I o N W I T H 6 C o L U M N 	S Q U A r E C o M P o S I T I o N W I T H 6 C o L U M N 	H o r I Z o N TA L C o M P o S I T I o N W I T H 1 2 C o L U M N
+5 5	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 55 of 86 --
+
+Rows
+Rows may be added to the design
+to help guide content. Like columns,
+the number of rows can go up or
+down depending on the needs of
+the designer.
+The size of row gutters, is equal to
+whatever is created for the column
+gutters (1/4 of the margin size).
+V E r T I C A L C o M P o S I T I o N W I T H 6 	r o W S 	S Q U A r E C o M P o S I T I o N W I T H 6 	r o W S 	H o r I Z o N TA L C o M P o S I T I o N W I T H 4 	r o W S
+X
+1/4 X
+1/4 X
+1/4 X
+5 6	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 56 of 86 --
+
+Finalized
+Before applying design elements,
+double check your grid to make sure
+columns, margins and gutters are
+applied correctly.
+V E r T I C A L C o M P o S I T I o N 	S Q U A r E C o M P o S I T I o N 	H o r I Z o N TA L C o M P o S I T I o N
+5 7	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 57 of 86 --
+
+Applying content
+Once the grid is finalized, we can
+start by applying brand elements and
+photography onto a composition.
+The following pages will further unpack
+how we design our layouts.
+V E r T I C A L C o M P o S I T I o N 	S Q U A r E C o M P o S I T I o N 	H o r I Z o N TA L C o M P o S I T I o N
+Power
+your
+everyday.
+With simplified design,
+improved energy harvest,
+and advanced monitoring,
+the IQ8D microinverter offers
+true peace of mind during
+operation and maintenance.
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+6.7 IN
+9.3 IN
+IQ8
+The smartest
+solar power.
+Learn more about investing
+in energy independence.
+S OL A R & B AT T ERIE S
+5 8	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 58 of 86 --
+
+Learn more about investing
+in energy independence.
+V E r T I C A L C o M P o S I T I o N 	S Q U A r E C o M P o S I T I o N 	H o r I Z o N TA L C o M P o S I T I o N
+Power
+your
+everyday.
+With simplified design,
+improved energy harvest,
+and advanced monitoring,
+the IQ8D microinverter offers
+true peace of mind during
+operation and maintenance.
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+6.7 IN
+9.3 IN
+IQ8
+The smartest
+solar power.
+Applying content
+Once the grid is finalized, we can
+start by applying brand elements and
+photography onto a composition.
+The following pages will further unpack
+how we design our layouts.
+S OL A R & B AT T ERIE S
+5 9	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 59 of 86 --
+
+Learn more
+IQ8
+The smartest
+solar power.
+Microinverters are named after
+their highly intelligent microchip.
+We customize our chips to maximize
+the size, weight, reliability,
+and performance of our products.
+Power
+your
+everyday.
+Learn more
+C A P A C I T Y :
+	1 0 K W H
+E X P A N D A B L E
+	A R C H I T E C T U R E
+	A L L W E AT H E R - D E S I G N
+1 0 K W H 	1 0 K W H 	3 K W H
+Enphase
+IQ Battery
+Your personal power plant.
+S T O R A G E
+Low voltage.
+High safety.
+The Enphase IQ Battery operates
+with low-voltage DC power,
+avoiding the dangers that can
+come with high-volatge DC power.
+E V A N & K A I
+A U S T I N , T X
+K R I S T I N A & E M M A
+C H I C A G O , I L
+A N N A & M I L E S
+B O I S E , I D
+A L L W E AT H E R - D E S I G N	E X P A N D A B L E
+	A R C H I T E C T U R E
+C A P A C I T Y :
+	1 0 K W H
+Learn more
+Enphase
+IQ Battery
+Your personal power plant.
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+IQ8
+The smartest
+solar power.
+Explore the product line
+IQ Battery 10 	IQ Battery 3 	IQ8 	System Controller
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Learn more 	Learn more 	Learn more 	Learn more
+T I L E I M A g E C o N TA I N E r
+S P L I T T I L E S
+T I L E 	g r I D S 	S TA C K E D T I L E A S Y M M E T r I C A L
+T I L E C A P T I o N S 	T I L E 	g r I D S
+T I L E C o N TA I N E r 	T E X T A N D I M A g E 	S TA C K E D T I L E S
+Modular layouts
+Through the combination of grids and
+Tile types, a system of modular layouts
+is possible. The following pages go
+into detail about how to create each
+module type.
+Please evaluate the most appropriate
+module for the content when creating
+a layout.
+6 0	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 60 of 86 --
+
+Tile cards
+A core component to our graphic
+system is the use of rounded corner
+Tile Cards. These graphic devices can
+be applied to our grid and be used in
+a variety of ways. Such examples of
+uses include, holding text, images,
+illustration, infographics and video.
+The following pages outline a few
+rules and methods for how to apply
+Title Cards consistently.
+X
+6 1	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 61 of 86 --
+
+Corner radius
+No matter what the size is of the tile,
+the corner radius should be equal 50%
+or 1/2 of the margin size. For example if
+our margin is equal to 96px we would set
+the rounded corner setting to 48px.
+Following this rule will create consistency
+whenever rounded corners appear.
+X
+X
+C O R N E R R A D I U S S E T T O 1 /2 X
+6 2	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 62 of 86 --
+
+Single image
+Images maybe be placed within a large
+single card. Please use the grid rules that
+were outlined at the beginning of this
+section to ensure a structured layout.
+X
+X
+Learn more
+IQ8
+The smartest
+solar power.
+Microinverters are named after
+their highly intelligent microchip.
+We customize our chips to maximize
+the size, weight, reliability,
+and performance of our products.
+6 3	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 63 of 86 --
+
+Single image
+Examples of an image being placed
+within a Tile.
+Learn more
+IQ8
+The smartest
+solar power.
+Microinverters are named after
+their highly intelligent microchip.
+We customize our chips to maximize
+the size, weight, reliability,
+and performance of our products.
+6 4	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 64 of 86 --
+
+Stacked Tiles
+Multiple Tiles may be used within a single
+layout to show an array of images and
+content. Tiles may be placed adjacent or
+above and below each other.
+When using stacked Tiles, please follow
+the grids rules that are outlined at the
+beginning of this section. Following these
+rules will ensure that the negative space
+between Tiles is clean, consistent and
+sophisticated.
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+IQ8
+The smartest
+solar power.
+X
+X
+6 5	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 65 of 86 --
+
+Stacked Tiles
+Examples of stacked Tiles in use.
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+IQ8
+The smartest
+solar power.
+6 6	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 66 of 86 --
+
+Text and image
+When placing text content inside a tile
+shape we use an indent that is equal to
+the margin size on all sides.
+S T O R A G E
+X
+X
+Low voltage.
+High safety.
+The Enphase IQ Battery operates
+with low-voltage DC power,
+avoiding the dangers that can
+come with high-volatge DC power.
+6 7	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 67 of 86 --
+
+Text and image
+Examples of text and image being
+placed within a Tile.
+S T O R A G E
+Low voltage.
+High safety.
+The Enphase IQ Battery operates
+with low-voltage DC power,
+avoiding the dangers that can
+come with high-volatge DC power.
+6 8	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 68 of 86 --
+
+When the
+sun sets,
+it shines.
+E N P H A S E I Q B AT T E R Y
+The Enphase Energy System brings solar,
+batteries, and software together in
+one complete package so now you can
+make, use, save, and sell your own
+power — all through a smart mobile app.
+Always know how much power you’re making, using, and saving both in real-time,
+and as it fluctuates over time. Always know how much power you’re making, using,
+and saving both in real-time, and as it fluctuates over time. And prioritize and direct
+power to essential appliances during a grid outage to optimize energy consumption.
+Enphase App
+Store solar power to use anytime— at night
+or during peak hours to reduce energy bills
+or when there’s an outage and utility power
+is unavailable.
+Enphase IQ
+Batteries
+Our new IQ8 Microinverters offer microgrid-
+forming technology that provides Sunlight
+Backup to run your home on solar during
+daytime outages, powered with a proprietary,
+intelligent chip makes switching between on
+or off grid virtually seamless.
+Enphase IQ8
+Microinverter
+X
+1/2 X to 1 X	
+Text and image
+exceptions
+For some formats, insetting text at the
+same value as the margin will result in
+a large indent. In these circumstances
+we may use an indent value between
+1/2X and 1X on all sides.
+6 9	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 69 of 86 --
+
+Store solar power to use anytime— at night
+or during peak hours to reduce energy bills
+or when there’s an outage and utility power
+is unavailable.
+Enphase IQ
+Batteries
+Our new IQ8 Microinverters offer microgrid-
+forming technology that provides Sunlight
+Backup to run your home on solar during
+daytime outages, powered with a proprietary,
+intelligent chip makes switching between on
+or off grid virtually seamless.
+Enphase IQ8
+Microinverter
+When the
+sun sets,
+it shines.
+The Enphase Energy System brings solar,
+batteries, and software together in
+one complete package so now you can
+make, use, save, and sell your own
+power — all through a smart mobile app.
+Always know how much power you’re making, using, and saving both in real-time,
+and as it fluctuates over time. Always know how much power you’re making, using,
+and saving both in real-time, and as it fluctuates over time. And prioritize and direct
+power to essential appliances during a grid outage to optimize energy consumption.
+Enphase App
+E N P H A S E I Q B AT T E R Y
+Text and image
+exceptions
+Example of the exception rule being
+applied when placing text within a Tile.
+7 0	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 70 of 86 --
+
+Split Tiles
+Tile shapes may be split vertically and
+horizontally within a layout. Splitting
+Tiles offers a great method to divide
+images and text.
+Split Tiles may be created by placing
+two shapes next to each other, without
+a gutter, and rounding the outside
+corners to 1/2 of the margin width.
+Power
+your
+everyday.
+X
+X
+7 1	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 71 of 86 --
+
+Split Tiles
+Examples of Split Tiles in use. Solid fills
+from our neutral palette may be applied
+as backgrounds to Tiles containing text.
+Power
+your
+everyday.
+7 2	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 72 of 86 --
+
+Inset Tiles
+Tiles may be inset within another Tile to
+display captions or other information.
+When creating Inset Tiles, use an inset
+space that is equal to the margin width (X).
+The corner radius of caption Tiles must
+be equal to 1/4 of the margin width (X)
+and text should be inset at 1/2 of the
+margin width (X).
+E V A N & K A I
+A U S T I N , T X
+A N N A & M I L E S
+B O I S E , I D
+X
+X
+1/4 X
+1/2 X
+K R I S T I N A & E M M A
+C H I C A G O , I L
+7 3	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 73 of 86 --
+
+Caption Tiles
+Examples of Caption Tiles in use.
+E V A N & K A I
+A U S T I N , T X
+K R I S T I N A & E M M A
+C H I C A G O , I L
+A N N A & M I L E S
+B O I S E , I D
+7 4	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 74 of 86 --
+
+Tile grids
+Grids may created within Tiles in order
+to divide content. These grids use their
+own columns and rows, in order to
+better aid the content it is holding.
+When creating Tile Grids, content must
+use an inset space that is equal to the
+margin width (X).
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Learn more 	Learn more 	Learn more 	Learn more
+Explore the product line
+X
+X
+IQ Battery 10 	IQ Battery 3 	IQ8 	System Controller
+7 5	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 75 of 86 --
+
+Tile grids
+Opposite is an examples of a Tile Grid
+in use. Solid fills from our palette may
+be applied to Tiles containing content.
+Tile grids should always use images that
+appear deep etched and don’t bleed off
+the layout.
+Explore the product line
+IQ Battery 10 	IQ Battery 3 	IQ8 	System Controller
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Learn more 	Learn more 	Learn more 	Learn more
+7 6	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 76 of 86 --
+
+Tile grids
+Grids may also be split vertically to
+create multiple rows.
+As stated previously, when creating
+Tile Grids, content must use an
+inset space that is equal to the margin
+width (X).
+C A P A C I T Y :
+1 0 K W H
+E X P A N D A B L E
+A R C H I T E C T U R E
+A L L W E AT H E R - D E S I G N
+Learn more
+X
+X
+Enphase
+IQ Battery
+Your personal power plant.
+7 7	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 77 of 86 --
+
+Tile grids
+Examples of Tile Grids with two rows
+in use. Solid fills from our palette may
+be applied to Tiles containing content.
+Tile grids should always use images
+that appears deep etched and doesn’t
+bleed off the layout.
+Learn more
+C A P A C I T Y :
+1 0 K W H
+E X P A N D A B L E
+A R C H I T E C T U R E
+A L L W E AT H E R - D E S I G N
+1 0 K W H 	1 0 K W H 	3 K W H
+Enphase
+IQ Battery
+Your personal power plant.
+7 8	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 78 of 86 --
+
+Asymmetrical
+stacked Tiles
+When using multiple Tiles within one
+application, it’s very easy for the layout
+to feel too structured or gridded.
+This can particularly be caused when
+tile gutters align.
+Visual interest or rhythm can be
+created by misaligning Tile gutters
+and/or using an asymmetrical grid
+(grids containing 3 , 5 or 9 columns).
+Also consider removing Tiles to create
+white space. Doing so will allow
+breathing room within the layout.
+Learn more
+A L L W E AT H E R - D E S I G N	E X P A N D A B L E
+A R C H I T E C T U R E
+C A P A C I T Y :
+1 0 K W H
+X
+X
+Enphase
+IQ Battery
+Your personal power plant.
+7 9	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 79 of 86 --
+
+Asymmetrical
+stacked Tiles
+Examples of Asymmetrical Stacked
+Tiles in use. Stacked Tiles become
+particularly useful for when images
+need to bleed off the container.
+This is demonstrated in the bottom
+right corner of the application.
+A L L W E AT H E R - D E S I G N	E X P A N D A B L E
+A R C H I T E C T U R E
+C A P A C I T Y :
+1 0 K W H
+Learn more
+Enphase
+IQ Battery
+Your personal power plant.
+8 0	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 80 of 86 --
+
+8 1	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y g U I D E L I N E S	E N P H A S E 	V E r S I o N 1 . 3
+Don’t make gutters too wide
+Don’t make margins more or less than 5% of width or height
+Don’t round corners more or less than 1/2 of the margin
+Don’t Make the inset circle radius too large or too small
+Don’t use colors other than neutrals for tile backgrounds
+Don’t mix square and round corners if not using split tile
+Explore the product line
+IQ Battery 10 	IQ Battery 3 	IQ8 	System Controller
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Learn More 	Learn More 	Learn More 	Learn More
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+Lorem ipsum dolor sit amet,
+consetur adipiscing elit, sed do
+eiusmod tempor incididunt ut
+labore et dolore magna.
+D ATA S P E C S
+F P O : 3 5 1 K W H
+F P O : 1 2 4 5
+M I C R O I N V E R T E R S
+D ATA F P O N U M B E R S
+3 4 1 2 4 K W H
+IQ8
+The smartest
+solar power. IQ8
+The smartest
+solar power.
+Microinverters are named after
+their highly intelligent microchip.
+We customize our chips to maximize
+the size, weight, reliability, and
+performance of our products.
+Learn more
+E V A N & K A I
+A U S T I N , T X
+K R I S T I N A & J O H N
+C H I C A G O , I L
+A N N A & M I L E S
+B O I S E , I D
+S T O R A G E
+Low voltage.
+High safety.
+The Enphase IQ Battery operates
+with low-voltage DC power,
+avoiding the dangers that can
+come with high-volatge DC power.
+Power
+your
+everyday.
+Grids and layout
+Misuse
+
+-- 81 of 86 --
+
+Applications
+Example of an OOH billboard using the
+Split Tile layout.
+8 2	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 82 of 86 --
+
+Applications
+Example of brochure covers that
+use a single image Tile. Consider the
+placement and use of space around
+the Tile to create visual tension.
+8 3	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 83 of 86 --
+
+Your personal
+power plant
+Superpower your home with clean,
+reliable, affordable energy
+Learn more
+A solar system in your home
+Lorem ipsum dolor sit amet,
+consectetuer adip.
+For Homeowners
+The power of many
+Lorem ipsum dolor sit amet,
+consectetuer adip.
+For Businessowners
+Microinverters
+Lorem ipsum dolor sit amet,
+consectetuer adip.
+For Installers
+Learn more 	Learn more 	Learn more
+Power your everyday.
+See how people around the world are
+powering their lives with Enphase.
+Learn more
+M A R I A A N D O L G A
+B U R L I N G T O N , V T
+E M M A & S E V E R I N
+A M S T E R D A M
+G R A C E A N D T O M
+S E AT T L E , W A
+E M M A & M I L A
+S T O C K H O L M
+M A R A A N D B L A K E
+L O S A N G E L E S , C A
+Applications
+Opposite presents an example of how
+multiple Tile layouts may be used for
+a website application.
+8 4	g r I D S 	A N D 	L A Y o U T	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 84 of 86 --
+
+Applications
+Opposite presents an example of how
+multiple Tile layouts may be used for
+a website application.
+8 5	V I S U A L I D E N T I T Y G U I D E L I N E S	E N P H A S E 	V E R S I O N 1 . 3
+
+-- 85 of 86 --
+
+For questions, contact:
+Kelvin Chu
+Executive Creative Director
+kchu@enphaseenergy.com
+E N P H A S E	V E R S I O N 1 . 3	 	8 6	M A r C H 2 0 2 2	V I S U A L I D E N T I T Y 	g U I D E L I N E S
+
+-- 86 of 86 --
+

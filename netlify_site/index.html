@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Installer Ecosystem — Enphase Analytics</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --orange: #EA6100;
+      --orange-light: rgba(234,97,0,0.08);
+      --orange-border: rgba(234,97,0,0.2);
+      --text-1: #1C1C1C;
+      --text-2: #5A5A5A;
+      --text-3: #9A9A9A;
+      --bg: #F8F7F4;
+      --card: #FFFFFF;
+      --border: #E2E1DD;
+      --radius: 16px;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text-1);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Navbar ── */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 40px;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-brand { display: flex; align-items: center; gap: 10px; }
+    .nav-logo {
+      width: 34px; height: 34px;
+      background: var(--orange); border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 1rem; color: #fff;
+    }
+    .nav-name { font-size: 15px; font-weight: 600; color: var(--text-1); letter-spacing: -0.01em; }
+    .nav-tag {
+      font-size: 10px; font-weight: 500; color: var(--text-3);
+      font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.12em;
+    }
+    .nav-badge {
+      font-size: 10px; font-family: 'DM Mono', monospace;
+      background: var(--orange-light); color: var(--orange);
+      border: 1px solid var(--orange-border); border-radius: 6px;
+      padding: 3px 10px; font-weight: 500; letter-spacing: 0.08em;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      flex: 1;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      padding: 80px 24px 60px;
+      text-align: center;
+    }
+    .hero-eyebrow {
+      font-size: 10px; font-weight: 500; letter-spacing: 0.18em;
+      text-transform: uppercase; color: var(--orange);
+      font-family: 'DM Mono', monospace; margin-bottom: 20px;
+    }
+    .hero-title {
+      font-size: clamp(2.6rem, 6vw, 4rem);
+      font-weight: 300; color: var(--text-1);
+      letter-spacing: -0.04em; line-height: 1.1;
+      margin-bottom: 10px;
+    }
+    .hero-tagline {
+      font-size: 13px; font-weight: 500;
+      color: var(--orange); letter-spacing: 0.12em;
+      text-transform: uppercase; font-family: 'DM Mono', monospace;
+      margin-bottom: 18px;
+    }
+    .hero-sub {
+      font-size: 15px; color: var(--text-2); max-width: 420px;
+      line-height: 1.7; margin-bottom: 36px;
+    }
+
+    .btn-primary {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--orange); color: #fff;
+      padding: 14px 32px; border-radius: 12px;
+      font-size: 14px; font-weight: 600; letter-spacing: -0.01em;
+      text-decoration: none; transition: all 0.18s;
+      box-shadow: 0 2px 12px rgba(234,97,0,0.28);
+    }
+    .btn-primary:hover {
+      background: #C95400;
+      box-shadow: 0 4px 20px rgba(234,97,0,0.38);
+      transform: translateY(-1px);
+    }
+    .btn-primary svg { width: 16px; height: 16px; }
+
+    /* ── Stats strip ── */
+    .stats {
+      display: flex; justify-content: center; gap: 0;
+      margin-top: 64px; flex-wrap: wrap;
+    }
+    .stat {
+      padding: 24px 40px;
+      border-right: 1px solid var(--border);
+      text-align: center;
+    }
+    .stat:last-child { border-right: none; }
+    .stat-num {
+      font-size: 28px; font-weight: 300; color: var(--text-1);
+      font-family: 'DM Mono', monospace; line-height: 1;
+      margin-bottom: 6px;
+    }
+    .stat-label { font-size: 11px; color: var(--text-3); letter-spacing: 0.08em; text-transform: uppercase; }
+
+    /* ── Feature cards ── */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px; max-width: 960px; width: 100%;
+      margin: 48px auto 0;
+    }
+    .feature-card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 22px 24px;
+      text-align: left;
+    }
+    .feature-icon {
+      width: 36px; height: 36px; border-radius: 10px;
+      background: var(--orange-light); border: 1px solid var(--orange-border);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; margin-bottom: 14px;
+    }
+    .feature-title { font-size: 13px; font-weight: 600; color: var(--text-1); margin-bottom: 6px; }
+    .feature-desc { font-size: 12px; color: var(--text-2); line-height: 1.6; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center; padding: 24px;
+      border-top: 1px solid var(--border);
+      font-size: 11px; color: var(--text-3);
+      font-family: 'DM Mono', monospace;
+    }
+
+    /* ── Access notice ── */
+    .notice {
+      margin-top: 20px;
+      font-size: 12px; color: var(--text-3);
+    }
+    .notice a { color: var(--orange); text-decoration: none; }
+
+    /* ── Login modal ── */
+    .modal-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(28,28,28,0.45); backdrop-filter: blur(4px);
+      z-index: 100; align-items: center; justify-content: center;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: #fff; border-radius: 20px;
+      border: 1px solid var(--border);
+      box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+      padding: 36px 40px; width: 100%; max-width: 400px;
+      position: relative; animation: slideUp 0.22s ease;
+    }
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .modal-close {
+      position: absolute; top: 16px; right: 20px;
+      background: none; border: none; cursor: pointer;
+      font-size: 18px; color: var(--text-3); line-height: 1;
+    }
+    .modal-logo {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 24px;
+    }
+    .modal-logo-icon {
+      width: 38px; height: 38px; background: var(--orange); border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 1rem; color: #fff;
+    }
+    .modal-logo-text { font-size: 16px; font-weight: 600; color: var(--text-1); }
+    .modal-logo-sub { font-size: 10px; color: var(--text-3); font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.1em; }
+    .modal h2 { font-size: 20px; font-weight: 500; color: var(--text-1); margin-bottom: 6px; }
+    .modal-desc { font-size: 13px; color: var(--text-2); margin-bottom: 28px; line-height: 1.5; }
+    .form-group { margin-bottom: 16px; }
+    .form-group label { display: block; font-size: 12px; font-weight: 500; color: var(--text-2); margin-bottom: 6px; }
+    .form-group input {
+      width: 100%; padding: 11px 14px;
+      border: 1px solid var(--border); border-radius: 10px;
+      font-size: 14px; font-family: 'Inter', sans-serif;
+      background: #FAFAF8; color: var(--text-1);
+      outline: none; transition: border 0.15s;
+    }
+    .form-group input:focus { border-color: var(--orange); background: #fff; }
+    .btn-login {
+      width: 100%; padding: 13px; border: none; border-radius: 10px;
+      background: var(--orange); color: #fff;
+      font-size: 14px; font-weight: 600; cursor: pointer;
+      transition: background 0.15s; margin-top: 6px;
+    }
+    .btn-login:hover { background: #C95400; }
+    .modal-footer { text-align: center; margin-top: 20px; font-size: 11px; color: var(--text-3); }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <div class="nav-brand">
+      <div class="nav-logo">E</div>
+      <div>
+        <div class="nav-name">Installer Ecosystem</div>
+        <div class="nav-tag">Enphase Analytics</div>
+      </div>
+    </div>
+    <div class="nav-badge">EURO &amp; ANZP</div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-eyebrow">⚡ Enphase &nbsp;·&nbsp; Euro &amp; ANZP</div>
+    <h1 class="hero-title">Installer Ecosystem</h1>
+    <p class="hero-tagline">Installer Intelligence Platform</p>
+    <p class="hero-sub">
+      Real-time segmentation, cross-sell analytics, and priority action lists
+      across your entire installer network.
+    </p>
+
+    <button class="btn-primary" onclick="document.getElementById('loginModal').classList.add('open')">
+      <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 2a3 3 0 110 6 3 3 0 010-6zM3 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      Sign In
+    </button>
+    <p class="notice">Authorised users only &nbsp;·&nbsp; <a href="mailto:admin@enphase.com">Request access</a></p>
+
+    <!-- Stats -->
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-num">12K+</div>
+        <div class="stat-label">Installers tracked</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">5Q</div>
+        <div class="stat-label">Rolling history</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">44</div>
+        <div class="stat-label">Countries</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">Live</div>
+        <div class="stat-label">Data refresh</div>
+      </div>
+    </div>
+
+    <!-- Feature cards -->
+    <div class="features">
+      <div class="feature-card">
+        <div class="feature-icon">📊</div>
+        <div class="feature-title">Segment Intelligence</div>
+        <div class="feature-desc">Lost, Declining, Stable, Growing, New — auto-classified every quarter with revenue impact.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🔁</div>
+        <div class="feature-title">Cross-Sell Analytics</div>
+        <div class="feature-desc">Identify PV-only installers ready for Storage &amp; EVSE upsell across every country.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🚨</div>
+        <div class="feature-title">Priority Action List</div>
+        <div class="feature-desc">P1 Lost &amp; Declining installers ranked by revenue at risk — with direct contact details.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🌍</div>
+        <div class="feature-title">Euro &amp; ANZP</div>
+        <div class="feature-desc">Unified view across European and Asia-Pacific installer networks with one-click region toggle.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Login Modal -->
+  <div class="modal-overlay" id="loginModal" onclick="handleOverlayClick(event)">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal()">&#x2715;</button>
+      <div class="modal-logo">
+        <div class="modal-logo-icon">E</div>
+        <div>
+          <div class="modal-logo-text">Installer Ecosystem</div>
+          <div class="modal-logo-sub">Enphase Analytics</div>
+        </div>
+      </div>
+      <h2>Welcome back</h2>
+      <p class="modal-desc">Enter your credentials to access the intelligence platform.</p>
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="username" placeholder="Your username" autocomplete="username" />
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="password" placeholder="••••••••" autocomplete="current-password" />
+      </div>
+      <button class="btn-login" onclick="handleLogin()">Sign In →</button>
+      <div class="modal-footer">Trouble logging in? <a href="mailto:admin@enphase.com" style="color:var(--orange);text-decoration:none">Contact admin</a></div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2026 Enphase Energy &nbsp;&middot;&nbsp; Installer Ecosystem &nbsp;&middot;&nbsp; Confidential
+  </footer>
+
+  <script>
+    const APP_URL = "http://localhost:8501";
+
+    function closeModal() {
+      document.getElementById('loginModal').classList.remove('open');
+    }
+    function handleOverlayClick(e) {
+      if (e.target === document.getElementById('loginModal')) closeModal();
+    }
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+    function handleLogin() {
+      const u = document.getElementById('username').value.trim();
+      const p = document.getElementById('password').value.trim();
+      if (!u || !p) {
+        alert('Please enter both username and password.');
+        return;
+      }
+      // Redirect to the Streamlit app — auth handled there
+      window.open(APP_URL, '_blank');
+    }
+
+    // Allow Enter key to submit
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Enter' && document.getElementById('loginModal').classList.contains('open')) {
+        handleLogin();
+      }
+    });
+  </script>
+
+</body>
+</html>

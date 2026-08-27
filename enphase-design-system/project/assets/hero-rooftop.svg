@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" aria-label="Rooftop solar lifestyle (placeholder)">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCB571"></stop>
+      <stop offset="0.45" stop-color="#F497B3"></stop>
+      <stop offset="1" stop-color="#C8DEFF"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky)"></rect>
+  
+  <circle cx="640" cy="120" r="64" fill="#FFD02C" opacity="0.85"></circle>
+  <circle cx="640" cy="120" r="100" fill="#FFD02C" opacity="0.18"></circle>
+  
+  <path d="M0 380 L0 500 L800 500 L800 360 L600 240 L400 360 L200 240 L0 380 Z" fill="#3C3C3C"></path>
+  
+  <g transform="translate(220,250)" fill="#1a1a1a" stroke="#2C436F" stroke-width="1.2">
+    <rect x="0" y="0" width="44" height="62" rx="2"></rect>
+    <rect x="50" y="0" width="44" height="62" rx="2"></rect>
+    <rect x="100" y="0" width="44" height="62" rx="2"></rect>
+    <rect x="150" y="0" width="44" height="62" rx="2"></rect>
+    <rect x="0" y="68" width="44" height="62" rx="2"></rect>
+    <rect x="50" y="68" width="44" height="62" rx="2"></rect>
+    <rect x="100" y="68" width="44" height="62" rx="2"></rect>
+    <rect x="150" y="68" width="44" height="62" rx="2"></rect>
+  </g>
+  
+  <ellipse cx="640" cy="160" rx="200" ry="40" fill="#FFFFFF" opacity="0.18"></ellipse>
+</svg>

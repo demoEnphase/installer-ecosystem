@@ -1,0 +1,80 @@
+"""State/region abbreviation → full name lookup (EU + US)."""
+
+STATE_MAP = {
+    # EU country-level regions / Belgian provinces / French regions etc.
+    "VAN": "Antwerp",
+    "VBR": "Flemish Brabant",
+    "VLI": "Limburg",
+    "VOV": "East Flanders",
+    "VWV": "West Flanders",
+    "WAL": "Wallonia",
+    "BRU": "Brussels",
+    "IDF": "Île-de-France",
+    "PAC": "Provence-Alpes-Côte d'Azur",
+    "OCC": "Occitanie",
+    "ARA": "Auvergne-Rhône-Alpes",
+    "NAQ": "Nouvelle-Aquitaine",
+    "BRE": "Bretagne",
+    "PDL": "Pays de la Loire",
+    "NOR": "Normandie",
+    "HDF": "Hauts-de-France",
+    "GES": "Grand Est",
+    "BFC": "Bourgogne-Franche-Comté",
+    "CVL": "Centre-Val de Loire",
+    "COR": "Corsica",
+    # German Länder
+    "BW": "Baden-Württemberg",
+    "BY": "Bavaria",
+    "BE": "Berlin",
+    "BB": "Brandenburg",
+    "HB": "Bremen",
+    "HH": "Hamburg",
+    "HE": "Hesse",
+    "MV": "Mecklenburg-Vorpommern",
+    "NI": "Lower Saxony",
+    "NW": "North Rhine-Westphalia",
+    "RP": "Rhineland-Palatinate",
+    "SL": "Saarland",
+    "SN": "Saxony",
+    "ST": "Saxony-Anhalt",
+    "SH": "Schleswig-Holstein",
+    "TH": "Thuringia",
+    # Netherlands provinces
+    "DR": "Drenthe",
+    "FL": "Flevoland",
+    "FR": "Friesland",
+    "GE": "Gelderland",
+    "GR": "Groningen",
+    "LI": "Limburg",
+    "NB": "North Brabant",
+    "NH": "North Holland",
+    "OV": "Overijssel",
+    "UT": "Utrecht",
+    "ZE": "Zeeland",
+    "ZH": "South Holland",
+    # UK
+    "ENG": "England",
+    "SCT": "Scotland",
+    "WLS": "Wales",
+    "NIR": "Northern Ireland",
+    # US states
+    "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",
+    "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware",
+    "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
+    "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas",
+    "KY": "Kentucky", "LA": "Louisiana", "ME": "Maine", "MD": "Maryland",
+    "MA": "Massachusetts", "MI": "Michigan", "MN": "Minnesota", "MS": "Mississippi",
+    "MO": "Missouri", "MT": "Montana", "NE": "Nebraska", "NV": "Nevada",
+    "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NY": "New York",
+    "NC": "North Carolina", "ND": "North Dakota", "OH": "Ohio", "OK": "Oklahoma",
+    "OR": "Oregon", "PA": "Pennsylvania", "RI": "Rhode Island", "SC": "South Carolina",
+    "SD": "South Dakota", "TN": "Tennessee", "TX": "Texas", "UT": "Utah",
+    "VT": "Vermont", "VA": "Virginia", "WA": "Washington", "WV": "West Virginia",
+    "WI": "Wisconsin", "WY": "Wyoming", "DC": "District of Columbia",
+}
+
+
+def get_state_full(abbreviation: str) -> str:
+    if not abbreviation or str(abbreviation).strip() in ("", "nan", "None"):
+        return ""
+    return STATE_MAP.get(str(abbreviation).strip().upper(), str(abbreviation).strip())
