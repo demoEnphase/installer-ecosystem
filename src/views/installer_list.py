@@ -121,11 +121,13 @@ def render_installer_list(master: pd.DataFrame, weekly_pivot: pd.DataFrame,
     sel_tier    = _r1c5.selectbox("Tier", tier_opts, key="il_tier")
 
     # ── Filters — Row 2 ─────────────────────────────────────────────────────
-    _r2c1, _r2c2, _r2c3 = st.columns([1, 2, 4])
-    sel_pri     = _r2c1.selectbox("Priority", ["All", "P1", "P2"], key="il_priority")
+    _r2c1, _r2c2, _r2c3, _r2c4 = st.columns([1, 1, 2, 3])
+    _region_opts = ["All"] + sorted(master["Region"].dropna().unique().tolist()) if "Region" in master.columns else ["All"]
+    sel_region  = _r2c1.selectbox("Region", _region_opts, key="il_region")
+    sel_pri     = _r2c2.selectbox("Priority", ["All", "P1", "P2"], key="il_priority")
     ov_opts     = (["All"] + sorted(master["Installer_Overview"].dropna().unique().tolist())
                    if "Installer_Overview" in master.columns else ["All"])
-    sel_overview = _r2c2.selectbox("Overview", ov_opts, key="il_overview")
+    sel_overview = _r2c3.selectbox("Overview", ov_opts, key="il_overview")
 
     # Apply filters
     df = master.copy()
@@ -139,6 +141,8 @@ def render_installer_list(master: pd.DataFrame, weekly_pivot: pd.DataFrame,
         df = df[df["Installer_Group"] == sel_tier]
     if sel_pri != "All":
         df = df[df["Priority"] == sel_pri]
+    if sel_region != "All" and "Region" in df.columns:
+        df = df[df["Region"] == sel_region]
     # Lost tier drill-down from Insights tab
     _tier_jkeys = st.session_state.get("ins_lost_tier_keys")
     if _tier_jkeys:
