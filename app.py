@@ -594,7 +594,8 @@ _growth_pct  = st.session_state.get("growth_pct",  15.0)
 
 if "uploaded_df" in st.session_state:
     _df_uploaded = st.session_state["uploaded_df"]
-    disti_df = st.session_state.get("uploaded_disti") or load_disti()
+    _disti_val = st.session_state.get('uploaded_disti')
+    disti_df = _disti_val if _disti_val is not None else load_disti()
     # Key on object identity + thresholds — avoids re-classification on every rerun
     _classify_key = (id(_df_uploaded), id(disti_df), _decline_pct, _growth_pct)
     if st.session_state.get("_classify_cache_key") != _classify_key:
