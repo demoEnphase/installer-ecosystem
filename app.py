@@ -1,4 +1,4 @@
-﻿"""Installer Ecosystem — Streamlit App Entry Point."""
+"""Installer Ecosystem — Streamlit App Entry Point."""
 import sys
 import warnings
 from pathlib import Path
@@ -614,6 +614,12 @@ if "uploaded_df" in st.session_state:
     df_raw, _master_base, cur_q, all_5q, prior_4q, weekly_pivot = (
         st.session_state["_classify_cache"])
 else:
+    from pathlib import Path as _Path
+    _local_data = _Path(__file__).parent / 'data' / 'basedata.xlsx'
+    if not _local_data.exists():
+        st.warning('No data loaded. Please upload data files using the sidebar.')
+        st.info('Log in as **admin** then use Upload Data Files in the left sidebar.')
+        st.stop()
     _cached = get_master_data(decline_pct=_decline_pct, growth_pct=_growth_pct)
     df_raw, _master_base, cur_q, all_5q, prior_4q, weekly_pivot = _cached
 
