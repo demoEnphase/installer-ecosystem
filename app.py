@@ -616,16 +616,35 @@ if "uploaded_df" in st.session_state:
         st.session_state["_classify_cache"])
 else:
     from pathlib import Path as _Path
-    _local_data = _Path(__file__).parent / 'data' / 'basedata.xlsx'
+    _data_dir  = _Path(__file__).parent / 'data'
+    _local_data = _data_dir / 'basedata.xlsx'
+    _local_disti = _data_dir / 'Installer disti mapping.xlsx'
     if not _local_data.exists():
         st.markdown('## Upload Data Files to Get Started')
-        st.info('No local data found. Upload your Excel files below.')
+        st.info('Files are saved on the server — you only need to upload once per session restart.')
         _bd = st.file_uploader('Upload quarterly Excel files (1-5 files)', type=['xlsx'], accept_multiple_files=True, key='cloud_bd')
         _di = st.file_uploader('Upload Installer disti mapping.xlsx', type=['xlsx'], accept_multiple_files=False, key='cloud_disti')
         if _bd:
-            from src.loader import load_basedata_from_bytes, load_disti_from_bytes
-            st.session_state['uploaded_df'] = load_basedata_from_bytes(_bd)
-            if _di: st.session_state['uploaded_disti'] = load_disti_from_bytes(_di)
+            _data_dir.mkdir(parents=True, exist_ok=True)
+            import io as _io
+            _merged = _io.BytesIO()
+            import openpyxl as _oxl
+            if len(_bd) == 1:
+                _data_dir.joinpath('basedata.xlsx').write_bytes(_bd[0].getvalue())
+            else:
+                _wb_out = _oxl.Workbook()
+                _wb_out.remove(_wb_out.active)
+                for _f in _bd:
+                    _wb_in = _oxl.load_workbook(_io.BytesIO(_f.getvalue()), data_only=True)
+                    for _sn in _wb_in.sheetnames:
+                        _ws_in = _wb_in[_sn]
+                        _ws_out = _wb_out.create_sheet(_sn)
+                        for _row in _ws_in.iter_rows(values_only=True):
+                            _ws_out.append(list(_row))
+                _wb_out.save(str(_data_dir / 'basedata.xlsx'))
+            if _di:
+                _local_disti.write_bytes(_di.getvalue())
+            st.success('Files saved! Reloading...')
             st.rerun()
         st.stop()
     _cached = get_master_data(decline_pct=_decline_pct, growth_pct=_growth_pct)
