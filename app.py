@@ -617,8 +617,15 @@ else:
     from pathlib import Path as _Path
     _local_data = _Path(__file__).parent / 'data' / 'basedata.xlsx'
     if not _local_data.exists():
-        st.warning('No data loaded. Please upload data files using the sidebar.')
-        st.info('Log in as **admin** then use Upload Data Files in the left sidebar.')
+        st.markdown('## Upload Data Files to Get Started')
+        st.info('No local data found. Upload your Excel files below.')
+        _bd = st.file_uploader('Upload quarterly Excel files (1-5 files)', type=['xlsx'], accept_multiple_files=True, key='cloud_bd')
+        _di = st.file_uploader('Upload Installer disti mapping.xlsx', type=['xlsx'], accept_multiple_files=False, key='cloud_disti')
+        if _bd:
+            from src.loader import load_basedata_from_bytes, load_disti_from_bytes
+            st.session_state['uploaded_df'] = load_basedata_from_bytes(_bd)
+            if _di: st.session_state['uploaded_disti'] = load_disti_from_bytes(_di)
+            st.rerun()
         st.stop()
     _cached = get_master_data(decline_pct=_decline_pct, growth_pct=_growth_pct)
     df_raw, _master_base, cur_q, all_5q, prior_4q, weekly_pivot = _cached
